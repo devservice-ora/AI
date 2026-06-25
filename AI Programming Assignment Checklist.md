@@ -1,5 +1,5 @@
 # Lab Assignment Submission Guidelines & Checklist
-**Instructor:** Jim D. Pham   | **Courses:** All Programming Classes
+**Instructor:** Jim D. Pham   | **Course:** All Programming Classes
 
 To receive full credit for your programming lab assignments, you must follow a three-stage development process: creating your own independent solution, using an Artificial Intelligence (AI) assistant as a technical peer reviewer, and writing a brief conceptual summary.
 
@@ -46,6 +46,6 @@ Before submitting, ensure you have gathered all required deliverables. Upload **
 - [ ] **`Lab-<your name>-AI-Improved.cpp`** *(Your refined source code after implementing the AI peer-review suggestions)*
 - [ ] **Screenshot of your Original program output** *(Clear visual verification that your original code compiled and executed successfully)*
 - [ ] **Screenshot of your AI-Improved program output** *(Clear visual verification that your optimized code compiles and executes successfully)*
-- [ ] **Program Explanation Paragraph** *(Your summary and reflection, submitted either as a separate document or inline text as directed by the portal)*
+- [ ] **Program Explanation Paragraph** *(Your summary and reflection as indicated in ___Step 3___, submitted either as a separate document or inline text as directed by the portal)*
 
 *Note: Missing any of the deliverables above will result in an incomplete submission or a deduction in grading points.*
