@@ -43,6 +43,7 @@ The following formal certificates, credentials, and structural archive items are
 
 ### 🏆 Academic Laurels, Distinctions & Strategic Management
 * **Adjunct Faculty Service Award (15 Years)** – Formally celebrating continuous academic dedication (June 2018).
+* **CERT Community Emergency Response Training Certificate** – Fundamental skills through classroom and hands-on Disaster Preparedness, Fire Safety, Disaster Medical Operations, Light Search, Rescue Operations, and Disaster Psychology. (September 2019).
 * **Cisco Instructor 5 Years of Active Service Award** – Milestone badge tracking community technical leadership.
 * **NASA Ames Honor Award** – Scientific software telemetry system engineering commendation (August 2010).
 * **Lockheed Wingspread Award** – High-impact aerospace engineering innovation distinction (May 1996).
