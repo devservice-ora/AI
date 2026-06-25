@@ -86,5 +86,6 @@ As an Adjunct Professor, I establish clear, rigorous frameworks to guide student
 ---
 
 ## 🛡️ Emergency Preparedness & Compliance
-* **FEMA IS-100.C: Introduction to the Incident Command System** – *October 2025* Formally certified under national tactical emergency management protocols, coordinating critical community infrastructure safety and resilience frameworks.
+* **Community Emergency Response Team (CERT) Certificate** – Fundamental skills through classroom and hands-on Disaster Preparedness, Fire Safety, Disaster Medical Operations, Light Search, Rescue Operations, and Disaster Psychology. (September 2019).
+* **FEMA IS-100.C: Introduction to the Incident Command System Certificate** – *October 2025* Formally certified under national tactical emergency management protocols, coordinating critical community infrastructure safety and resilience frameworks.
 * **California Regulatory Workplace Safety Compliances** – *November 2025* Verified certifications in California Workplace Violence Prevention and Sexual Harassment Prevention protocols for operational workspaces.
