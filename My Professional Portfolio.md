@@ -76,7 +76,7 @@ As an Adjunct Professor, I establish clear, rigorous frameworks to guide student
 
 ### 🚀 NASA & Aerospace Engineering Commendations
 * **NASA Ames Honor Award** – *August 2010* High-profile recognition celebrating advanced scientific software engineering architecture and technical system deliverables for mission telemetry data pipelines.
-* **Lockheed Wingspread Award** – *August 2010* Honoring elite technical engineering execution and innovation benchmarks in aerospace software system environments.
+* **Lockheed Wingspread Award** – *May 1996* Honoring elite technical engineering execution and innovation benchmarks in aerospace software system environments.
 * **Letter of Appreciation (EVC - Rol Morris)** – Deep peer commendation highlighting outstanding operational contributions and cross-functional technical support execution.
 
 ### 🏢 Corporate Engineering Milestones
