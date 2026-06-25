@@ -4,8 +4,8 @@ This repository contains the professional portfolio and academic frameworks of *
 
 ## 📂 Repository Structure
 
-* **`AI_Portfolio.md`**: The complete, comprehensive professional portfolio. It integrates over 25+ technical credentials, corporate software engineering milestones at Oracle/PeopleSoft, aerospace commendations from NASA, and a 15+ year trajectory in higher education faculty service.
-* **`SU-2026-AI Use Guidelines.docx`**: Official academic syllabus guidelines outlining boundaries for generative AI tool deployment in computer science and programming courses.
+* **[`Professional_Portfolio`](https://github.com/devservice-ora/AI/blob/main/My%20Professional%20Portfolio.md)**: The complete, comprehensive professional portfolio. It integrates over 25+ technical credentials, corporate software engineering milestones at Oracle/PeopleSoft, aerospace commendations from NASA, and a 15+ year trajectory in higher education faculty service.
+* **[`SU-2026-AI Use Guidelines`](https://github.com/devservice-ora/AI/blob/main/AI%20Use%20Guidelines%20for%20CS%20Students.pdf)**: Official academic syllabus guidelines outlining boundaries for generative AI tool deployment in computer science and programming courses.
 
 ---
 
@@ -44,6 +44,18 @@ The following formal certificates, credentials, and structural archive items are
 ### 🏆 Academic Laurels, Distinctions & Strategic Management
 * **Adjunct Faculty Service Award (15 Years)** – Formally celebrating continuous academic dedication (June 2018).
 * **Cisco Instructor 5 Years of Active Service Award** – Milestone badge tracking community technical leadership.
+* **NASA Ames Honor Award** – Scientific software telemetry system engineering commendation (August 2010).
+* **Lockheed Wingspread Award** – High-impact aerospace engineering innovation distinction (August 2010).
+* **PeopleSoft Outstanding Contributor Award** – Core system architecture optimization (February 2004).
+* **PeopleSoft 8 Hero Award** – Breakthrough platform initialization deployment commendation (February 2011 archive).
+* **FEMA IS-100.C Emergency Management Certificate** – Introduction to the Incident Command System (October 2025).
+* **IPD Week Professional Development Award** – Instructional academic enhancement milestone (February 2026).
+* **Managing a Business Venture Certificate** – Strategic accounting and risk operational planning (May 2026).
+* **Engaging Stakeholders for Success & Creating Compelling Reports Certificates** – (August/September 2025).
+* **California Workplace Regulatory Compliances** – Certified completion files for Workplace Violence Prevention and Sexual Harassment Prevention (November 2025).
+
+---
+*Verified Portfolio Repository Archive — June 2026.*
 * **NASA Ames Honor Award** – Scientific software telemetry system engineering commendation (August 2010).
 * **Lockheed Wingspread Award** – High-impact aerospace engineering innovation distinction (August 2010).
 * **PeopleSoft Outstanding Contributor Award** – Core system architecture optimization (February 2004).
