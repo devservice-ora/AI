@@ -45,7 +45,7 @@ The following formal certificates, credentials, and structural archive items are
 * **Adjunct Faculty Service Award (15 Years)** – Formally celebrating continuous academic dedication (June 2018).
 * **Cisco Instructor 5 Years of Active Service Award** – Milestone badge tracking community technical leadership.
 * **NASA Ames Honor Award** – Scientific software telemetry system engineering commendation (August 2010).
-* **Lockheed Wingspread Award** – High-impact aerospace engineering innovation distinction (August 2010).
+* **Lockheed Wingspread Award** – High-impact aerospace engineering innovation distinction (May 1996).
 * **PeopleSoft Outstanding Contributor Award** – Core system architecture optimization (February 2004).
 * **PeopleSoft 8 Hero Award** – Breakthrough platform initialization deployment commendation (February 2011 archive).
 * **FEMA IS-100.C Emergency Management Certificate** – Introduction to the Incident Command System (October 2025).
