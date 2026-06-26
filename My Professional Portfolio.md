@@ -6,7 +6,7 @@
 ---
 
 ## Executive Summary
-A visionary educator and senior technology leader with a doctorate in education specializing in technology and learning, a Master of Science in Software Engineering, and a Bachelor of Science in Computer Engineering. Combining extensive historic engineering milestones at PeopleSoft and Oracle with a 15+ year trajectory in higher education and Cisco Networking Academy instruction. Actively driving the structural integration of Agentic AI, full-stack distributed systems, and modern data architectures into enterprise platforms and academic curricula.
+A visionary educator and senior technology leader with a Doctorate in education specializing in technology and learning, a Master of Science in Software Engineering, and a Bachelor of Science in Computer Engineering. Combining extensive historic engineering milestones at Oracle, PeopleSoft, Lockheed Martin, and Elonex Technologies with a 25+ year trajectory in higher education, Ohlone College and Cisco Networking Academy instruction. Actively driving the structural integration of Agentic AI, full-stack distributed systems, and modern data architectures into enterprise platforms and academic curricula.
 
 ---
 
@@ -76,7 +76,7 @@ As an Adjunct Professor, I establish clear, rigorous frameworks to guide student
 
 ### 🚀 NASA & Aerospace Engineering Commendations
 * **NASA Ames Honor Award** – *August 2010* High-profile recognition celebrating advanced scientific software engineering architecture and technical system deliverables for mission telemetry data pipelines.
-* **Lockheed Wingspread Award** – *May 1996* Honoring elite technical engineering execution and innovation benchmarks in aerospace software system environments.
+* **Lockheed Wingspread Award** – *May 1996* Honoring elite technical engineering execution and innovation benchmarks in Lockheed Martin Information & Technology Services (LM IS&T).
 * **Letter of Appreciation (EVC - Rol Morris)** – Deep peer commendation highlighting outstanding operational contributions and cross-functional technical support execution.
 
 ### 🏢 Corporate Engineering Milestones
