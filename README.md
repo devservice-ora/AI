@@ -10,7 +10,9 @@ This repository contains the professional portfolio and academic frameworks of *
 ---
 
 ## 📜 AI Tools
-The Ultimate Free AI Tools Directory
+
+The text highlights the importance of mastering fundamental concepts in Computer Science before using  AI tools like Claude, Copilot, GitHub, Gemini, or ChatGPT.. While AI increases student engagement, it raises questions about whether it leads to better learning outcomes in skills such as debugging and collaboration. 
+A good research question to consider is whether AI truly benefits student development or simply promotes dependency on automated code generation.
 
 * **[`The Ultimate Free AI Tools Directory`](https://github.com/devservice-ora/AI/blob/main/The%20Ultimate%20Free%20AI%20Tools%20Directory.md)**: List of free AI tools.
 * **[`AI Acceptable Use Guidelines`](https://github.com/devservice-ora/AI/blob/main/AI%20Acceptable%20Use%20Guidelines%20for%20CS%20Students.md)**: Official academic syllabus guidelines outlining boundaries for generative AI tool deployment in computer science and programming courses.
