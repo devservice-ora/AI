@@ -1,6 +1,6 @@
 # Visionary AI Engineering & Pedagogy Portfolio
 
-This repository contains the professional portfolio and academic frameworks of **Dr. Jim D. Pham**. It highlights the intersection of enterprise software engineering, autonomous systems, and advanced technology-enhanced learning environments.
+This repository contains the professional portfolio and academic frameworks of **[Jim D. Pham](https://github.com/devservice-ora/AI/blob/main/My%20Professional%20Portfolio.md)**. It highlights the intersection of enterprise software engineering, autonomous systems, and advanced technology-enhanced learning environments.
 
 ## 📂 Repository Structure
 
