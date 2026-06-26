@@ -2,6 +2,8 @@
 **Instructor:** Jim D. Pham  
 **Course:** All Programming Classes 
 
+Visit also **[AI Acceptable Use Policy Fundamentals First](https://github.com/devservice-ora/AI/blob/main/AI%20Acceptable%20Use%20Policy%3A%20Fundamentals%20First.md)**
+
 ---
 
 ## 💡 AI Acceptable Uses
