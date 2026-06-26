@@ -17,10 +17,13 @@ Students are encouraged to responsibly integrate AI tools into their workflows f
 ## 🛠️ Suggested Tools
 
 You may choose to use AI chatbot tools, including but not limited to:
+### 🤖 **[The Big Four for Core Developer Environments](https://github.com/devservice-ora/AI/blob/main/My%20List%20of%20Free%20AI%20Programming%20Tools%20Guide%202026.pdf)**
 * **ChatGPT** *(OpenAI)*
 * **Claude AI** *(Anthropic)*
 * **Gemini** *(Google)*
 * **Copilot** *(Microsoft)*
+
+### 🤖 **Others**
 * **DeepSeek**
 * **Perplexity**
 * *Other equivalent LLM assistants*
