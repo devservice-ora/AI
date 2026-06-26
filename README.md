@@ -5,9 +5,15 @@ This repository contains the professional portfolio and academic frameworks of *
 ## 📂 Repository Structure
 
 * **[`Professional_Portfolio`](https://github.com/devservice-ora/AI/blob/main/My%20Professional%20Portfolio.md)**: The complete, comprehensive professional portfolio. It integrates over 25+ technical credentials, corporate software engineering milestones at Oracle/PeopleSoft, aerospace commendations from NASA, and a 15+ year trajectory in higher education faculty service.
-* **[`AI Acceptable Use Guidelines`](https://github.com/devservice-ora/AI/blob/main/AI%20Acceptable%20Use%20Guidelines%20for%20CS%20Students.md)**: Official academic syllabus guidelines outlining boundaries for generative AI tool deployment in computer science and programming courses.
+* **The Ultimate Free AI Tools Directory**: A categorized list of free AI tools to supercharge your workflow, creativity, and business. Perfect for sharing on blogs, GitHub, or social media!
 
 ---
+
+## 📜 AI Tools
+The Ultimate Free AI Tools Directory
+
+* **[`The Ultimate Free AI Tools Directory`](https://github.com/devservice-ora/AI/blob/main/The%20Ultimate%20Free%20AI%20Tools%20Directory.md)**: List of free AI tools.
+* **[`AI Acceptable Use Guidelines`](https://github.com/devservice-ora/AI/blob/main/AI%20Acceptable%20Use%20Guidelines%20for%20CS%20Students.md)**: Official academic syllabus guidelines outlining boundaries for generative AI tool deployment in computer science and programming courses.
 
 ## 📜 Inventory of Credentials & Portfolios by Category
 The following formal certificates, credentials, and structural archive items are officially accounted for within this portfolio environment:
