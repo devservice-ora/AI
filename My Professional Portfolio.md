@@ -1,4 +1,4 @@
-# Professional AI Portfolio
+# Professional Portfolio
 
 ## Jim D. Pham
 **Visionary Principal Software Engineer & Adjunct Professor of Computer Science** *Specialization in Autonomous Systems, Agentic AI, and Technology-Enhanced Learning Environments* **GitHub:** [devservice-ora](https://github.com/devservice-ora) | **Email:** jpham0507@gmail.com | **Credly Profile:** [jim-pham](https://www.credly.com/users/jim-pham.2880ca8e)
