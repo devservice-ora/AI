@@ -7,7 +7,7 @@
 ## 1. Fundamentals First
 The objective of this document is to equip students with the necessary knowledge and skills to navigate the realities of enterprise software engineering and the technology sector. In order to achieve this aim, it is essential to adhere to a fundamental principle:
 
-** Students must *first* have a solid understanding of concepts, logic, and data structures before leveraging AI tools for assistance.
+**Students must *first* have a solid understanding of concepts, logic, and data structures before leveraging AI tools for assistance.**
 
 AI is an incredible co-pilot, but it cannot replace critical problem-solving, architectural thinking, or debugging skills. Relying too much on AI as a shortcut bypasses the cognitive struggles required to become a true engineer.
 
@@ -16,7 +16,7 @@ AI is an incredible co-pilot, but it cannot replace critical problem-solving, ar
 ## 2. Permitted vs. Prohibited Use
 
 ### 🟢 Permitted (AI as a Learning Aid)
-You are encouraged to use generative AI tools (e.g., ChatGPT, GitHub Copilot) to enhance your learning in the following ways:
+You are encouraged to use generative AI tools (e.g., ChatGPT, Clause, Copilot, Gemini, GitHub) to enhance your learning in the following ways:
 * **Concept Exploration:** Asking for alternative explanations of complex lecture topics or theoretical data structures.
 * **Brainstorming:** Mapping out high-level pseudo-code logic or discussing architectural patterns for a project.
 * **Code Optimization:** Submitting your *already written and functioning* code to check for style adjustments, formatting, or performance bottlenecks.
