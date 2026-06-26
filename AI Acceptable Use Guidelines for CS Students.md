@@ -1,8 +1,9 @@
 # AI Acceptable Use Guidelines
-**Instructor:** Jim D. Pham  
+**Instructor: [Jim D. Pham](https://github.com/devservice-ora/AI/blob/main/My%20Professional%20Portfolio.md)**
+
 **Course:** All Programming Classes 
 
-Visit also **[AI Acceptable Use Policy Fundamentals First](https://github.com/devservice-ora/AI/blob/main/AI%20Acceptable%20Use%20Policy%3A%20Fundamentals%20First.md)**
+>Visit also **[AI Acceptable Use Policy Fundamentals First](https://github.com/devservice-ora/AI/blob/main/AI%20Acceptable%20Use%20Policy%3A%20Fundamentals%20First.md)**
 
 ---
 
