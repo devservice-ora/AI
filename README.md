@@ -9,7 +9,7 @@ This repository contains the professional portfolio and academic frameworks of *
 
 ---
 
-## 📜 Inventory of Credentials & Portfolio Items
+## 📜 Inventory of Credentials & Portfolios by Category
 The following formal certificates, credentials, and structural archive items are officially accounted for within this portfolio environment:
 
 ### 🤖 Artificial Intelligence & Data Science Credentials
