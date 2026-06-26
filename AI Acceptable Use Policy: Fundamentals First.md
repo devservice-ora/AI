@@ -34,3 +34,5 @@ The following uses of AI bypass the learning process and constitute a violation 
 In the software industry, you are completely accountable for the stability and security of the code you deploy. In this classroom, you are completely accountable for the code you submit.
 
 > 💡 **The Golden Rule:** If you use an AI tool to assist your learning workflow, you must still be able to completely explain the underlying logic, algorithm, and data structures during a live code review or oral explanation. **If you cannot explain it, you did not learn it—and it will not receive credit.**
+
+> 🔍 **A valuable research question**  is whether the use of AI tools enhances students' learning outcomes. It is evident that students are more engaged with devices and AI technologies. However, does this increased engagement facilitate the learning process and better prepare them to excel and participate effectively in collaborative coursework?
