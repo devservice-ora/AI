@@ -5,11 +5,11 @@
 ---
 
 ## 1. Fundamentals First
-As your instructor, my goal is to prepare you for the realities of enterprise software engineering and the tech industry. To achieve this, we follow a foundational rule: 
+The objective of this document is to equip students with the necessary knowledge and skills to navigate the realities of enterprise software engineering and the technology sector. In order to achieve this aim, it is essential to adhere to a fundamental principle:
 
-**You must deeply understand the concepts, logic, and data structures *first* before leveraging AI tools for assistance.** 
+** Students must *first* have a solid understanding of concepts, logic, and data structures before leveraging AI tools for assistance.
 
-AI is an incredible co-pilot, but it cannot replace critical problem-solving, architectural thinking, or debugging skills. If you rely on AI as a shortcut, you bypass the cognitive struggles required to become a true engineer.
+AI is an incredible co-pilot, but it cannot replace critical problem-solving, architectural thinking, or debugging skills. Relying too much on AI as a shortcut bypasses the cognitive struggles required to become a true engineer.
 
 ---
 
