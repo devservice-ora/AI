@@ -1,6 +1,8 @@
 # Lab Assignment Submission Guidelines & Checklist
-**Instructor:** Jim D. Pham 
-**Course:** All Programming Classes
+**Instructor:** Jim D. Pham  
+**Course:** All Programming Classes 
+
+---
 
 To receive full credit for your programming lab assignments, you must follow a three-stage development process: creating your own independent solution, using an Artificial Intelligence (AI) assistant as a technical peer reviewer, and writing a brief conceptual summary.
 
