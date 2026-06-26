@@ -1,14 +1,14 @@
 # 🤖 Using an AI Chatbot with these prompt instructions
-> 1. Provide me with the top AI apps along with my list of apps.
+> 1. Provide me with the top AI apps along with my list of apps from the NCyTE workshop.
 > 2. Attached my initial list of apps.
-> 3. Add to my list of practical real-world tools to choose from and categorize them by group.
+> 3. Add to the list of practical real-world tools to choose from and categorize them by group.
 > 4. Create a .md markup file.
 
 --- 
 
 # 🪄 Comprehensive Guide: Top 10 AI Applications in Education
 
-This guide integrates the conceptual framework from the NCyTE workshop module on transforming teaching and learning with real-world, actionable artificial intelligence applications and tools.
+This guide integrates the conceptual framework from the NCyTE workshop on transforming teaching and learning with real-world, actionable artificial intelligence applications and tools.
 
 ---
 
