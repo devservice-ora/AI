@@ -1,5 +1,5 @@
 # AI Acceptable Use Guidelines
-**Instructor:** Dr. Jim D. Pham  
+**Instructor:** Jim D. Pham  
 **Course:** All Programming Classes 
 
 ---
