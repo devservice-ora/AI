@@ -4,8 +4,8 @@ This repository contains the professional portfolio and academic frameworks of *
 
 ## 📂 Repository Structure
 
-* **[`Professional_Portfolio`](https://github.com/devservice-ora/AI/blob/main/My%20Professional%20Portfolio.md)**: The complete, comprehensive professional portfolio. It integrates over 25+ technical credentials, corporate software engineering milestones at Oracle/PeopleSoft, aerospace commendations from NASA, and a 15+ year trajectory in higher education faculty service.
-* **The Ultimate Free AI Tools Directory**: A categorized list of free AI tools to supercharge your workflow, creativity, and business. Perfect for sharing on blogs, GitHub, or social media!
+* **AI Tools**: A categorized list of AI tools and guidelines to supercharge your workflow, creativity, and business. Perfect for sharing on blogs, GitHub, or social media!
+* **Inventory of Credentials & Portfolios by Category**: The complete, comprehensive professional portfolio. It integrates over 25+ technical credentials, corporate software engineering milestones at Oracle/PeopleSoft, aerospace commendations from NASA, and a 15+ year trajectory in higher education faculty service.
 
 ---
 
