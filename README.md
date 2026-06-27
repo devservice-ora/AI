@@ -57,7 +57,7 @@ The following formal certificates, credentials, and structural archive items are
 * **NASA Ames Honor Award** – Scientific software telemetry system engineering commendation (August 2010).
 * **Lockheed Wingspread Award** – High-impact aerospace engineering innovation distinction (May 1996).
 * **PeopleSoft Outstanding Contributor Award** – Core system architecture optimization (February 2004).
-* **PeopleSoft 8 Hero Award** – Breakthrough platform initialization deployment commendation (February 2011 archive).
+* **PeopleSoft 8 Hero Award** – Breakthrough platform initialization deployment commendation (February 2011).
 * **FEMA IS-100.C Emergency Management Certificate** – Introduction to the Incident Command System (October 2025).
 * **IPD Week Professional Development Award** – Instructional academic enhancement milestone (February 2026).
 * **Managing a Business Venture Certificate** – Strategic accounting and risk operational planning (May 2026).
@@ -68,8 +68,8 @@ The following formal certificates, credentials, and structural archive items are
 *Verified Portfolio Repository Archive — June 2026.*
 * **NASA Ames Honor Award** – Scientific software telemetry system engineering commendation (August 2010).
 * **Lockheed Wingspread Award** – High-impact aerospace engineering innovation distinction (August 2010).
-* **PeopleSoft Outstanding Contributor Award** – Core system architecture optimization (February 2004).
-* **PeopleSoft 8 Hero Award** – Breakthrough platform initialization deployment commendation (February 2011 archive).
+* **PeopleSoft Outstanding Contributor Award** –  Recognized for significant contributions to PeopleSoft PeopleTools in Data Administration (February 2004).
+* **PeopleSoft 8 Hero Award** – Recognized for significant contributions to PeopleSoft PeopleTools in the Data Mover and PeopleSoft Update Manager Tools.. (February 1999).
 * **FEMA IS-100.C Emergency Management Certificate** – Introduction to the Incident Command System (October 2025).
 * **IPD Week Professional Development Award** – Instructional academic enhancement milestone (February 2026).
 * **Managing a Business Venture Certificate** – Strategic accounting and risk operational planning (May 2026).
