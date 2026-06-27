@@ -1,7 +1,11 @@
 # Professional Portfolio
 
 ## Jim D. Pham
-**[Academic Profile](https://github.com/devservice-ora/articles/blob/main/README.md)** | **[Credly Profile](https://www.credly.com/users/jim-pham.2880ca8e)** | **[GitHub](https://github.com/devservice-ora)** | **[LinkedIn](https://www.linkedin.com/in/jim-pham-b25659)**
+**[Academic Profile](https://github.com/devservice-ora/articles/blob/main/README.md)** |
+**[Credly Profile](https://www.credly.com/users/jim-pham.2880ca8e)** |
+**[My Projects](https://github.com/devservice-ora/projects/blob/main/README.md)** |
+**[GitHub](https://github.com/devservice-ora)** |
+**[LinkedIn](https://www.linkedin.com/in/jim-pham-b25659)**
 
 **Visionary Principal Software Engineer & Adjunct Professor of Computer Science Specialization in Autonomous Systems, Agentic AI, and Technology-Enhanced Learning Environments.**
 
