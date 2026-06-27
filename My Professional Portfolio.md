@@ -3,7 +3,8 @@
 ## Jim D. Pham
 **[Academic Profile](https://github.com/devservice-ora/articles/blob/main/README.md)** |
 **[Credly Profile](https://www.credly.com/users/jim-pham.2880ca8e)** |
-**[My Projects](https://github.com/devservice-ora/projects/blob/main/README.md)** |
+**[AI Repository](https://github.com/devservice-ora/AI/blob/main/README.md)** |
+**[Projects](https://github.com/devservice-ora/projects/blob/main/README.md)** |
 **[GitHub](https://github.com/devservice-ora)** |
 **[LinkedIn](https://www.linkedin.com/in/jim-pham-b25659)**
 
