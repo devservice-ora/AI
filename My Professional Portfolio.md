@@ -1,10 +1,10 @@
 # Professional Portfolio
 
 ## Jim D. Pham
-**[Academic Profile](https://github.com/devservice-ora/articles/blob/main/README.md)** |
-**[Credly Profile](https://www.credly.com/users/jim-pham.2880ca8e)** |
+**[Academic Repository](https://github.com/devservice-ora/articles/blob/main/README.md)** |
 **[AI Repository](https://github.com/devservice-ora/AI/blob/main/README.md)** |
-**[Projects](https://github.com/devservice-ora/projects/blob/main/README.md)** |
+**[Projects Repository](https://github.com/devservice-ora/projects/blob/main/README.md)** |
+**[Credly](https://www.credly.com/users/jim-pham.2880ca8e)** |
 **[GitHub](https://github.com/devservice-ora)** |
 **[LinkedIn](https://www.linkedin.com/in/jim-pham-b25659)**
 
