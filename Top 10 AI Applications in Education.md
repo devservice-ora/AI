@@ -1,11 +1,11 @@
 # 🤖 Using an AI Chatbot with these prompt instructions
 
-The initial list of AI Applications in Education was sourced and compiled from my ***National Center for Educational Technology (NCyTE)*** AI Training Workshop, at SJSU.
-
 > 1. Provide me with the top AI apps along with my list of apps from the NCyTE workshop.
 > 2. Attached my initial list of apps.
 > 3. Add to the list of practical real-world tools to choose from and categorize them by group.
 > 4. Create a .md markup file.
+
+💡 Note: The initial list of AI Applications in Education was sourced and compiled from my ***National Center for Educational Technology (NCyTE)*** AI Training Workshop, at SJSU.
 
 --- 
 
