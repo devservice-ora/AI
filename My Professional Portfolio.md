@@ -42,7 +42,7 @@ As an Adjunct Professor, I establish clear, rigorous frameworks to guide student
 ### ⚙️ Enterprise Architecture & Middleware Infrastructure
 * **Oracle BPEL Process Manager Certified Professional** – Deep expertise in microservices orchestration, business process execution automation, and SOA architecture foundational blocks.
 * **Oracle Enterprise Manager Infrastructure Mastery** – Competency in planetary-scale systems clustering, production performance optimization, and autonomous database performance tuning.
-* **Oracle JDeveloper Enterprise IDE Platform Certification** – Application framework compilation, Java Enterprise Edition (JEE) blueprint implementation, and lifecycle logic management.
+* **Oracle JDeveloper Enterprise IDE Platform Certification** – Application framework compilation, Java Enterprise Edition (JEE) blueprint implementation, and lifecycle logic management. It should be noted that **Jim D. Pham** is the author of "Java Bean and EJB Data Control" as well as most of the related features of the ADF/JDeveloper toolkit.
 * **Oracle Warehouse Builder Data Architecture Certification** – Structural ETL mappings, multidimensional data warehousing data engineering pipelines, and metadata repository curation.
 
 ### 💻 Advanced Software Engineering Foundations
