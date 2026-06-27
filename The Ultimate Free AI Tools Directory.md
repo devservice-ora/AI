@@ -1,8 +1,8 @@
 # 🚀 The Ultimate Free AI Tools Directory
 
-> 💡 **Note:** This comprehensive list of tools was sourced and compiled from my recent **National Center for Educational Technology (NCyTE)** AI Training Workshop. 
-
 A curated, categorized list of incredible free AI tools to supercharge your workflow, creativity, and business. Perfect for sharing on blogs, GitHub, or social media!
+
+> 💡 **Note:** This list of tools was sourced and compiled from my **National Center for Educational Technology (NCyTE)** AI Training Workshop, at SJSU.
 
 ---
 
