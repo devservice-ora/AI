@@ -10,20 +10,6 @@ A visionary educator and senior technology leader with a Doctorate in education 
 
 ---
 
-## AI Pedagogical Framework & Guidelines
-As an Adjunct Professor, I establish clear, rigorous frameworks to guide students in the ethical and productive adoption of generative AI tools (such as Gemini, ChatGPT, Claude, and Copilot) within computer science courses:
-
-### 🌟 Acceptable AI Deployment
-* **Conceptual Exploration:** Leveraging LLMs for comprehensive, detailed explanations and multi-layered summaries of intricate computer science architectures.
-* **Cognitive Scaffolding / Assignment Hints:** Engaging with AI as a Socratic guide to receive strategic hints, encouraging algorithmic thinking without bypassing the problem-solving phase.
-* **Autonomous Debugging:** Utilizing AI as a companion resource to isolate edge cases, troubleshoot complex stack traces, and iteratively refine code quality.
-
-### 🛑 Academic Integrity & Boundaries
-* **Zero Verbatim Code Plagiarism:** Strict prohibition against direct copy-pasting of AI-generated implementations into lab assignments or worksheets.
-* **Unassisted Evaluations:** Zero AI utilization during official assessments (Chapter Quizzes, Midterm, and Final Exams) to guarantee that all evaluated benchmarks reflect original, unassisted student capability.
-
----
-
 ## Technical Credentials, AI Certifications & Core Engineering
 *Verified Archive via Cisco Networking Academy, IBM SkillsBuild, Oracle, and Corporate Engineering Portfolios*
 
@@ -82,6 +68,20 @@ As an Adjunct Professor, I establish clear, rigorous frameworks to guide student
 ### 🏢 Corporate Engineering Milestones
 * **PeopleSoft Outstanding Contributor Award** – *February 2004* Celebrating high-impact technical development and exceptional architecture contributions inside the enterprise product suite.
 * **PeopleSoft 8 Hero Award** – *February 2011 Archive* Individual recognition for heroic code-base optimization and architectural system engineering during the foundational platform deployment.
+
+---
+
+## 🏛️ AI Pedagogical Framework & Guidelines
+As an Adjunct Professor, I establish clear, rigorous frameworks to guide students in the ethical and productive adoption of generative AI tools (such as Gemini, ChatGPT, Claude, and Copilot) within computer science courses:
+
+### 🌟 Acceptable AI Deployment
+* **Conceptual Exploration:** Leveraging LLMs for comprehensive, detailed explanations and multi-layered summaries of intricate computer science architectures.
+* **Cognitive Scaffolding / Assignment Hints:** Engaging with AI as a Socratic guide to receive strategic hints, encouraging algorithmic thinking without bypassing the problem-solving phase.
+* **Autonomous Debugging:** Utilizing AI as a companion resource to isolate edge cases, troubleshoot complex stack traces, and iteratively refine code quality.
+
+### 🛑 Academic Integrity & Boundaries
+* **Zero Verbatim Code Plagiarism:** Strict prohibition against direct copy-pasting of AI-generated implementations into lab assignments or worksheets.
+* **Unassisted Evaluations:** Zero AI utilization during official assessments (Chapter Quizzes, Midterm, and Final Exams) to guarantee that all evaluated benchmarks reflect original, unassisted student capability.
 
 ---
 
