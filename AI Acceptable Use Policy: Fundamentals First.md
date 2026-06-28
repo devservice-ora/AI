@@ -1,7 +1,7 @@
 # Course Policy: AI Acceptable Use & The Engineering Mindset
 **Instructor: [Jim D. Pham](https://github.com/devservice-ora/AI/blob/main/My%20Professional%20Portfolio.md)**
 
-**Course:** All Programming Classes 
+**Course:** All Programming Courses  
 
 > **Core Philosophy:** Much like the internet and IoT, AI is a transformative force in modern technology. However, true competence in Computer Science and Engineering comes from mastering the science itself. Syntax can be automated, but core logic is unyielding. 
 
