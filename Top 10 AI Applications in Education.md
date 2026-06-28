@@ -5,7 +5,7 @@
 > 3. Add to the list of practical real-world tools to choose from and categorize them by group.
 > 4. Create a .md markup file.
 
-💡 Note: The initial list of AI Applications in Education was sourced and compiled from my ***National Center for Educational Technology (NCyTE)*** AI Training Workshop, at SJSU.
+💡 Note: The initial list of AI Applications in Education was sourced and compiled from **[Jim D. Pham](https://github.com/devservice-ora/AI/blob/main/My%20Professional%20Portfolio.md)** AI Training Workshop, at SJSU, by  ***National Center for Educational Technology (NCyTE)***.
 
 --- 
 
