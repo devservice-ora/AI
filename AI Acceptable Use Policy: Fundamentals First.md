@@ -14,6 +14,8 @@ The objective of this document is to equip students with the necessary knowledge
 
 AI is an incredible co-pilot, but it cannot replace critical problem-solving, architectural thinking, or debugging skills. Relying too much on AI as a shortcut bypasses the cognitive struggles required to become a true engineer.
 
+> Visit also [Understanding AI Guide](https://github.com/devservice-ora/AI/blob/main/Understanding%20AI%20Guide.md)
+
 ---
 
 ## 2. Permitted vs. Prohibited Use
