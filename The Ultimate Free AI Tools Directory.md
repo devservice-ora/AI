@@ -2,7 +2,7 @@
 
 A curated, categorized list of incredible free AI tools to supercharge your workflow, creativity, and business. Perfect for sharing on blogs, GitHub, or social media!
 
-> 💡 **Note:** This list of tools was sourced and compiled from my **National Center for Educational Technology (NCyTE)** AI Training Workshop, at SJSU.
+> 💡 **Note:** This list of tools was sourced and compiled from **[Jim D. Pham](https://github.com/devservice-ora/AI/blob/main/My%20Professional%20Portfolio.md)** AI Training Workshop, at SJSU, by  ***National Center for Educational Technology (NCyTE)***.
 
 ---
 
