@@ -1,7 +1,7 @@
 # Lab Assignment Submission Guidelines & Checklist
 **Instructor:** **[Jim D. Pham](https://github.com/devservice-ora/AI/blob/main/My%20Professional%20Portfolio.md)**
 
-**Course:** All Programming Classes 
+**Course:** All Programming Courses 
 
 Visit also **[AI Acceptable Use Policy Fundamentals First](https://github.com/devservice-ora/AI/blob/main/AI%20Acceptable%20Use%20Policy%3A%20Fundamentals%20First.md)**
 
