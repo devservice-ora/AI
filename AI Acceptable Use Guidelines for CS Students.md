@@ -3,7 +3,7 @@
 
 **Course:** All Programming Courses 
 
->Visit also [Understanding AI Guide](https://github.com/devservice-ora/AI/blob/main/Understanding%20AI%20Guide.md)
+For additional information, visit also **[Understanding AI Guide](https://github.com/devservice-ora/AI/blob/main/Understanding%20AI%20Guide.md)**
 
 ---
 
