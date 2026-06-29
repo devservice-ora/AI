@@ -4,7 +4,7 @@
 
 **Course:** All Programming Courses 
 
-**Total Points: 100**
+---
 
 This 100-point framework evaluates computer science lab assignments by assessing execution success and software engineering practices across four main areas.
 
@@ -33,7 +33,7 @@ This 100-point framework evaluates computer science lab assignments by assessing
 
 ---
 
-### 4. Versioning, Deliverables & Analysis (20 Points)
+### 4. Final Submission & Analysis (20 Points)
 
 * **Original Deliverable (`Lab-Jim_Pham-Original.cpp`) (5 Points):** An independent, unoptimized, yet fully functional source code file that builds and compiles successfully without syntax errors.
 * **AI-Improved Deliverable (`Lab-Jim_Pham-AI-Improved.cpp`) (5 Points):** A refined source code file that explicitly incorporates structural optimizations (e.g., robust input stream checking, constant abstraction, or algorithmic cleanups) and builds cleanly.
