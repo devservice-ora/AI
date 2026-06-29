@@ -4,7 +4,7 @@
 **[Academic Repository](https://github.com/devservice-ora/articles/blob/main/README.md)** |
 **[AI Repository](https://github.com/devservice-ora/AI/blob/main/README.md)** |
 **[Projects Repository](https://github.com/devservice-ora/projects/blob/main/README.md)** |
-**[Courses Taught Repository](https://github.com/devservice-ora/taught-courses)** |
+**[Courses Taught Repository](https://github.com/devservice-ora/taught-courses/blob/main/README.md)** |
 **[Credly](https://www.credly.com/users/jim-pham.2880ca8e)** |
 **[GitHub](https://github.com/devservice-ora)** |
 **[LinkedIn](https://www.linkedin.com/in/jim-pham-b25659)**
