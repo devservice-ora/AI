@@ -18,7 +18,7 @@ This portfolio outlines an extensive technical trajectory across cloud-native in
 ### 💾 2. Database Utilities & Enterprise Lifecycle Tools (PeopleTools)
 
 * **⚙️ Change Assistant & Lifecycle Automation:** Designed the user interface, Wizard Framework, and security architecture for the PeopleSoft Change Assistant. Built the Download/Update Manager and environment data synchronization engines.
-* **📦 Data Mover & Enterprise Storage:** Authored the core data migration formats, high-performance indexing systems, and large-file transport mechanisms for Data Mover. Integrated the companion Process Scheduler utility.
+* **📦 Data Mover & Enterprise Storage:** Enterprise Data Mover & Storage System: Authored Data Mover works on Unix operating systems, supports core data migration formats, a high-performance indexing system, and a mechanism for transferring large files, and integrates a processing scheduling utility.
 * **📈 Database Optimization & Tooling:** Engineered the PeopleTools Visual Compare Merge Tools, Enterprise Database Sizing utilities, Target Database setups, and executed deep SQL Performance Tuning across complex enterprise datasets.
 * **🔌 Middleware & Connectivity:** Built secure proxy architectures for BEA Tuxedo, developed XML Web Services via Integration Broker, and engineered custom compiler/utility programs (Swapbase language tool, Asciicheck).
 
