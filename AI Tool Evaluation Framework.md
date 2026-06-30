@@ -1,6 +1,6 @@
 # 🤖 AI Tool Evaluation Framework & Comparative Methodology
 
-Derived and enhanced from the educational evaluation frameworks pioneered by **[Jim D. Pham](https://github.com/devservice-ora/AI/blob/main/My%20Professional%20Portfolio.md)** in software research, this document presents a modernized methodology for assessing Artificial Intelligence (AI) systems, Large Language Models (LLMs), and autonomous agentic workflows.
+Derived and enhanced from the educational evaluation frameworks pioneered by **[Jim D. Pham](https://github.com/devservice-ora/articles/blob/main/README.md)** in software research, this document presents a modernized methodology for assessing Artificial Intelligence (AI) systems, Large Language Models (LLMs), and autonomous agentic workflows.
 
 ## 1. 🎯 Executive Summary
 
