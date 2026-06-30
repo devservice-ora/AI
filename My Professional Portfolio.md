@@ -16,7 +16,7 @@
 ## Executive Summary
 A visionary educator and senior technology leader with a Doctorate in education specializing in technology and learning, a Master of Science in Software Engineering, and a Bachelor of Science in Computer Engineering. Combining extensive historic engineering milestones at Oracle, PeopleSoft, Lockheed Martin, and Elonex Technologies with a 25+ year trajectory in higher education, Ohlone College and Cisco Networking Academy instruction. Actively driving the structural integration of Agentic AI, full-stack distributed systems, and modern data architectures into enterprise platforms and academic curricula.
 
-> See also [Technical Portfolio: Enterprise Architecture, Cloud Infrastructure & Systems Engineering](https://github.com/devservice-ora/AI/edit/main/My%20Technical%20Portfolio.md)
+> See also [Technical Portfolio: Enterprise Architecture, Cloud Infrastructure & Systems Engineering](https://github.com/devservice-ora/AI/blob/main/My%20Technical%20Portfolio.md)
 
 ---
 
