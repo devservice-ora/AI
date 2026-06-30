@@ -68,7 +68,7 @@ The following formal certificates, credentials, and structural archive items are
 ---
 *Verified Portfolio Repository Archive — June 2026.*
 * **NASA Ames Honor Award** – Scientific software telemetry system engineering commendation (August 2010).
-* **Lockheed Wingspread Award** – High-impact aerospace engineering innovation distinction (August 2010).
+* **Lockheed Wingspread Award** – High-impact aerospace engineering innovation distinction (May 1996).
 * **PeopleSoft Outstanding Contributor Award** –  Recognized for significant contributions to PeopleSoft PeopleTools in Data Administration (February 2004).
 * **PeopleSoft 8 Hero Award** – Recognized for significant contributions to PeopleSoft PeopleTools in the Data Mover and PeopleSoft Update Manager Tools.. (February 1999).
 * **FEMA IS-100.C Emergency Management Certificate** – Introduction to the Incident Command System (October 2025).
