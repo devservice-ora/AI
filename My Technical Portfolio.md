@@ -1,6 +1,6 @@
 # 🛠️ Technical Portfolio: Enterprise Architecture, Cloud Infrastructure & Systems Engineering
 
- [Jim D. Pham](https://github.com/devservice-ora/AI/blob/main/My%20Professional%20Portfolio.md)**
+ **[Jim D. Pham](https://github.com/devservice-ora/AI/blob/main/My%20Professional%20Portfolio.md)**
 
 ## 📝 Executive Summary
 This portfolio outlines an extensive technical trajectory across cloud-native infrastructure, DevSecOps pipelines, automated data migration tools, and embedded hardware design. Key accomplishments include architecting enterprise framework components for Oracle and PeopleSoft, spearheading aerospace controls engineering for NASA Ames nanosatellites, and modernizing legacy application frameworks across various commercial sectors.
