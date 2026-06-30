@@ -5,7 +5,7 @@ This repository contains the professional portfolio and academic frameworks of *
 ## 📂 Repository Structure
 
 * **AI Tools**: A categorized list of AI tools and guidelines to supercharge your workflow, creativity, and business. Perfect for sharing on blogs, GitHub, or social media!
-* **Inventory of Credentials & Portfolios by Category**: The complete, comprehensive professional portfolio. It integrates over 25+ technical credentials, corporate software engineering milestones at Oracle/PeopleSoft, aerospace commendations from NASA, and a 15+ year trajectory in higher education faculty service.
+* **Inventory of Credentials & Portfolios by Category**: The professional portfolio features over 25 technical certifications, achievements in enterprise software engineering at Oracle/PeopleSoft, Lockheed Martin, aerospace awards from NASA, and a teaching career spanning more than 25 years at higher education institutions.
 
 ---
 
@@ -52,6 +52,7 @@ The following formal certificates, credentials, and structural archive items are
 
 ### 🏆 Academic Laurels, Distinctions & Strategic Management
 * **Adjunct Faculty Service Award (15 Years)** – Formally celebrating continuous academic dedication (June 2018).
+* **Ohlone College Faculty Shining Star Award** – Recognized for significant achievements and contributions to teaching and learning. (May 2016)
 * **CERT Community Emergency Response Training Certificate** – Fundamental skills through classroom and hands-on Disaster Preparedness, Fire Safety, Disaster Medical Operations, Light Search, Rescue Operations, and Disaster Psychology. (September 2019).
 * **Cisco Instructor 5 Years of Active Service Award** – Milestone badge tracking community technical leadership.
 * **NASA Ames Honor Award** – Scientific software telemetry system engineering commendation (August 2010).
