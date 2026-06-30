@@ -18,7 +18,7 @@ This portfolio outlines an extensive technical trajectory across cloud-native in
 ### 💾 2. Database Utilities & Enterprise Lifecycle Tools (PeopleTools)
 
 * **⚙️ Change Assistant & Lifecycle Automation:** Designed the user interface, Wizard Framework, and security architecture for the PeopleSoft Change Assistant. Built the Download/Update Manager and environment data synchronization engines.
-* **📦 Data Mover & Enterprise Storage:** Enterprise Data Mover & Storage System: Authored Data Mover works on Unix operating systems, supports core data migration formats, a high-performance indexing system, and a mechanism for transferring large files, and integrates a processing scheduling utility.
+* **📦 [Data Mover](https://github.com/devservice-ora/projects/blob/main/2007-DataMover%20Knowledge%20Transfer.pdf) & Enterprise Storage:** Enterprise Data Mover & Storage System: Authored Data Mover works on Unix operating systems, supports core data migration formats, a high-performance indexing system, and a mechanism for transferring large files, and integrates a processing scheduling utility.
 * **📈 Database Optimization & Tooling:** Engineered the PeopleTools Visual Compare Merge Tools, Enterprise Database Sizing utilities, Target Database setups, and executed deep SQL Performance Tuning across complex enterprise datasets.
 * **🔌 Middleware & Connectivity:** Built secure proxy architectures for BEA Tuxedo, developed XML Web Services via Integration Broker, and engineered custom compiler/utility programs (Swapbase language tool, Asciicheck).
 
@@ -41,7 +41,7 @@ This portfolio outlines an extensive technical trajectory across cloud-native in
 
 ## 🚀 II. Distinguished Projects & Research
 
-* **🌌 Aerospace & Nanosatellites (NASA Ames / CREST):** Directed specialized engineering efforts for the PharmaSat satellite project, bridging complex software controls with space-bound telemetry.
+* **🌌 Aerospace & Nanosatellites ([NASA / CREST](https://github.com/devservice-ora/projects/blob/main/NASA%20CREST%20Beacon%20Data%20Processing%20System%20Award.md)):** Directed specialized engineering efforts for the PharmaSat satellite project, bridging complex software controls with space-bound telemetry.
 * **📱 Mobile & Ubiquitous Computing (Early Innovation):** Pioneered early-stage prototypes including a Bluetooth-enabled mobile shopping cart framework, clinical data gathering applications, and early Java Web Server Engines.
 
 ---
