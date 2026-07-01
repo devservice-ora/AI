@@ -1,5 +1,7 @@
 # Understanding AI: Beyond the Buzzwords (2026)
 
+**[Jim D. Pham](https://github.com/devservice-ora/articles/blob/main/README.md)**
+
 > I posed this question to AI: Everyone is discussing RAG and AI agents, but how many people truly understand AI?
 
 It is incredibly easy to feel like you are the only one trying to cut through the noise when LinkedIn, tech blogs, and corporate presentations are flooded with jargon like **RAG (Retrieval-Augmented Generation)** and **AI Agents**.
