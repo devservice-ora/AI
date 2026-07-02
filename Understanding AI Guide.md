@@ -15,7 +15,7 @@ If it feels like "everyone" is just talking about it, but only a fraction actual
 To truly understand any technology, you have to look past the hype and master its core concepts. 
 
 Think of it like learning programming (such as C++): you cannot just talk about writing programs. You must understand the fundamental concepts.
-* **The Fundamentals:** Syntax and language elements.
+* **The Fundamentals:** Syntax and core concepts of the language.
 * **Advanced Concepts:** Object-Oriented Programming (OOP) and Data Structures.
 
 The same rule applies to artificial intelligence. True mastery requires understanding the underlying systems, not just the vocabulary.
