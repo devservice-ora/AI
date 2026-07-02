@@ -16,7 +16,7 @@ To truly understand any technology, you have to look past the hype and master it
 
 Think of it like learning programming (such as C++): you cannot just talk about writing programs. You must understand the fundamental concepts.
 * **The Fundamentals:** Syntax and core concepts of the language.
-* **Advanced Concepts:** [Object-Oriented Programming (OOP)](https://github.com/devservice-ora/taught-courses/blob/main/README.md) and [Data Structures](https://github.com/devservice-ora/taught-courses/blob/main/SP-2025-Syllabus-CS124-Data%20Structures.pdf).
+* **Advanced Concepts:** [Object-Oriented Programming (OOP)](https://github.com/devservice-ora/taught-courses/blob/main/README.md#-core-programming--data-structures) and [Data Structures](https://github.com/devservice-ora/taught-courses/blob/main/SP-2025-Syllabus-CS124-Data%20Structures.pdf).
 
 The same rule applies to artificial intelligence. True mastery requires understanding the underlying systems, not just the vocabulary.
 
