@@ -2,7 +2,7 @@
 
 **Instructor:** **[Jim D. Pham](https://github.com/devservice-ora/AI/blob/main/My%20Professional%20Portfolio.md)**
 
-**Course:** All Programming Courses 
+**Course:** All Programming Courses
 
 ---
 
