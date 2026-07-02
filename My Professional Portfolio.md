@@ -23,6 +23,8 @@ A visionary educator and senior technology leader with a Doctorate in education 
 ## AI Pedagogical Framework & Guidelines
 As an Adjunct Professor, I establish clear, rigorous frameworks to guide students in the ethical and productive adoption of generative AI tools (such as Gemini, ChatGPT, Claude, and Copilot) within computer science courses:
 
+> See also [Teaching Philosophy](https://github.com/devservice-ora/articles/blob/main/Teaching%20Philosophy.pdf)
+
 ### 🌟 Acceptable AI Deployment
 * **Conceptual Exploration:** Leveraging LLMs for comprehensive, detailed explanations and multi-layered summaries of intricate computer science architectures.
 * **Cognitive Scaffolding / Assignment Hints:** Engaging with AI as a Socratic guide to receive strategic hints, encouraging algorithmic thinking without bypassing the problem-solving phase.
