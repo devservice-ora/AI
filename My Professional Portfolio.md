@@ -21,7 +21,9 @@ A visionary educator and senior technology leader with a Doctorate in education 
 ---
 
 ## AI Pedagogical Framework & Guidelines
-As an Adjunct Professor, I establish clear, rigorous frameworks to guide students in the ethical and productive adoption of generative AI tools (such as Gemini, ChatGPT, Claude, and Copilot) within computer science courses:
+As an Adjunct Professor, **[Jim D. Pham](https://github.com/devservice-ora/articles/blob/main/README.md)** establishes clear, rigorous frameworks to guide students in the ethical and productive adoption of generative AI tools (such as Gemini, ChatGPT, Claude, and Copilot) within computer science courses.
+
+Dr. Pham is also a pioneer and leader in the use of online and mobile learning platforms and a researcher focused on developing technology-assisted learning models in education.
 
 > See also [Teaching Statement](https://github.com/devservice-ora/articles/blob/main/Teaching%20Statement.pdf)
 
