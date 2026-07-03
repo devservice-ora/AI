@@ -18,6 +18,7 @@ AI is an incredible co-pilot, but it cannot replace critical problem-solving, ar
 
 * **[Understanding AI Guide](https://github.com/devservice-ora/AI/blob/main/Understanding%20AI%20Guide.md)**
 * **[Program Logic Grading Rubric](https://github.com/devservice-ora/AI/blob/main/Program%20Logic%20Grading%20Rubric.md)**
+* **[Programming Assignment Checklist](https://github.com/devservice-ora/AI/blob/main/AI%20Programming%20Assignment%20Checklist.md)**
 
 ---
 
