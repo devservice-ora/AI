@@ -40,6 +40,7 @@ This 100-point framework evaluates computer science lab assignments by assessing
 ### 4. Final Submission & Analysis (20 Points)
 
 * **Original Deliverable (`Lab-Jim_Pham-Original.cpp`) (5 Points):** An independent, unoptimized, yet fully functional source code file that builds and compiles successfully without syntax errors.
-* **AI-Improved Deliverable (`Lab-Jim_Pham-AI-Improved.cpp`) (5 Points):** A refined source code file that explicitly incorporates structural optimizations (e.g., robust input stream checking, constant abstraction, or algorithmic cleanups) and builds cleanly. See also [Course Policy: AI Acceptable Use & The Engineering Mindset](https://github.com/devservice-ora/AI/blob/main/AI%20Acceptable%20Use%20Policy%3A%20Fundamentals%20First.md)
+* **AI-Improved Deliverable (`Lab-Jim_Pham-AI-Improved.cpp`) (5 Points):** A refined source code file that explicitly incorporates structural optimizations (e.g., robust input stream checking, constant abstraction, or algorithmic cleanups) and builds cleanly.
+  > See also [Course Policy: AI Acceptable Use & The Engineering Mindset](https://github.com/devservice-ora/AI/blob/main/AI%20Acceptable%20Use%20Policy%3A%20Fundamentals%20First.md)
 * **Visual Execution Evidence (5 Points):** Clear, legible terminal screenshots are provided, demonstrating successful, bug-free execution runs for both versions of the program.
 * **Technical Reflection Paragraph (5 Points):** Includes a concise 3–5 sentence analytical summary detailing the application's underlying mechanics, the evaluation of logical conditions, and the specific structural improvements adopted during the peer/AI optimization process.
