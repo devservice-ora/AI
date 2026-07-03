@@ -11,6 +11,7 @@ As artificial intelligence (AI) becomes an integral part of modern society, inte
 This 100-point framework evaluates computer science lab assignments by assessing execution success and software engineering practices across four main areas.
 
 > See also **[Programming Assignment Checklist](https://github.com/devservice-ora/AI/blob/main/AI%20Programming%20Assignment%20Checklist.md)**
+
 ---
 
 ### 1. Program Logic & Functional Correctness (40 Points)
