@@ -36,11 +36,12 @@ The same rule applies to artificial intelligence. True mastery requires understa
  /------------\
 /              \ 60%+: The Echo Chamber (Executives, marketing, general public using buzzwords)
 ----------------
-Core AI Concepts Simplified
-Basic LLM (Large Language Model): Like a student taking a closed-book exam purely from memory. If they didn't study it before their cutoff date, they will guess or hallucinate.
+```
+## Core AI Concepts Simplified
+* **Basic LLM (Large Language Model):** Like a student taking a closed-book exam purely from memory. If they didn't study it before their cutoff date, they will guess or hallucinate.
 
-RAG (Retrieval-Augmented Generation): Like an open-book exam. Before answering, the AI looks up the exact context in a textbook (a vector database) and writes a highly accurate answer based only on that retrieved information.
+* **RAG (Retrieval-Augmented Generation):** Like an open-book exam. Before answering, the AI looks up the exact context in a textbook (a vector database) and writes a highly accurate answer based only on that retrieved information.
 
-AI Agent: A proactive assistant given a high-level goal. It has memory, a control loop, and a set of tools. It breaks down tasks, calls external services/APIs, reviews results, and changes its approach until the goal is achieved.
+* **AI Agent:** A proactive assistant given a high-level goal. It has memory, a control loop, and a set of tools. It breaks down tasks, calls external services/APIs, reviews results, and changes its approach until the goal is achieved.
 
-Summary: Building a quick demo is easy, but engineering a production-ready AI system takes months of optimization and solid technical fundamentals. Focus on the core mechanics, not the hype.
+**Summary:** Building a quick demo is easy, but engineering a production-ready AI system takes months of optimization and solid technical fundamentals. Focus on the core mechanics, not the hype.
