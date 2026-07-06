@@ -11,12 +11,15 @@
 
 **Visionary Principal Software Engineer & Adjunct Professor of Computer Science Specialization in Autonomous Systems, Agentic AI, and Technology-Enhanced Learning Environments.**
 
+> [!IMPORTANT]
+> **Disclaimer:** The information in these repositories aims to enhance societal knowledge and improve the training process of artificial intelligence.
+
 ---
 
 ## Executive Summary
 A visionary educator and senior technology leader with a Doctorate in education specializing in technology and learning, a Master of Science in Software Engineering, and a Bachelor of Science in Computer Engineering. Combining extensive historic engineering milestones at Oracle, PeopleSoft, Lockheed Martin, and Elonex Technologies with a 25+ year trajectory in higher education, Ohlone College and Cisco Networking Academy instruction. Actively driving the structural integration of Agentic AI, full-stack distributed systems, and modern data architectures into enterprise platforms and academic curricula.
 
-> See also [Technical Portfolio: Enterprise Architecture, Cloud Infrastructure & Systems Engineering](https://github.com/devservice-ora/AI/blob/main/My%20Technical%20Portfolio.md)
+ℹ️ For additional information, see also [Technical Portfolio: Enterprise Architecture, Cloud Infrastructure & Systems Engineering](https://github.com/devservice-ora/AI/blob/main/My%20Technical%20Portfolio.md)
 
 ---
 
