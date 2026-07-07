@@ -42,6 +42,7 @@ This portfolio outlines an extensive technical trajectory across cloud-native in
 ## 🚀 II. Distinguished Projects & Research
 
 * **🌌 Aerospace & Nanosatellites ([NASA / CREST](https://github.com/devservice-ora/projects/blob/main/NASA%20CREST%20Beacon%20Data%20Processing%20System%20Award.md)):** Directed specialized engineering efforts for the PharmaSat satellite project, bridging complex software controls with space-bound telemetry.
+* ** **[Wingspread Award](https://github.com/devservice-ora/projects/blob/main/Award-Lockheed-Wingspread.jpg):** Honored with the award for technical excellence.
 * **📱 Mobile & Ubiquitous Computing (Early Innovation):** Pioneered early-stage prototypes including a Bluetooth-enabled mobile shopping cart framework, clinical data gathering applications, and early Java Web Server Engines.
 
 ---
