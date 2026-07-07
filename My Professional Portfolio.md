@@ -85,19 +85,19 @@ As a Professor, Dr. Pham establishes clear and rigorous frameworks to guide stud
 ## 🏆 Distinctions, Academic Service & Historic Awards
 
 ### 🏛️ Higher Education Tenure & Impact
-* **Adjunct Service Award (15 Years of Service)** – *Awarded June 2018* Formally celebrating a dedicated, multi-decade trajectory of instructional leadership, curricula refinement, and student mentorship within the computer science faculty.
+* **[Adjunct Service Award (15 Years of Service)](https://github.com/devservice-ora/projects/blob/main/AdjunctServiceAward-15years.JPG)** – *Awarded June 2018* Formally celebrating a dedicated, multi-decade trajectory of instructional leadership, curricula refinement, and student mentorship within the computer science faculty.
 * **Cisco Networking Academy Instructor (5 Years of Active Service Milestone)** – *Awarded September 2025* Documented technical mentorship impacting student learning outcomes and standard-driven community career readiness.
 * **IPD Week Award (Instructional Professional Development)** – *February 2026* Commitment to ongoing academic excellence, pedagogical refinement, and educational innovation.
 * **Eighth International Conference on Technology, Knowledge, and Society** – *September 2011* International research presence exploring the crossroads of technical platforms and societal paradigms.
 
 ### 🚀 NASA & Aerospace Engineering Commendations
-* **NASA Ames Honor Award** – *August 2010* High-profile recognition celebrating advanced scientific software engineering architecture and technical system deliverables for mission telemetry data pipelines.
-* **Lockheed Wingspread Award** – *May 1996* Honoring elite technical engineering execution and innovation benchmarks in Lockheed Martin Information & Technology Services (LM IS&T).
-* **Letter of Appreciation (EVC - Rol Morris)** – Deep peer commendation highlighting outstanding operational contributions and cross-functional technical support execution.
+* **[NASA Ames Honor Award](https://github.com/devservice-ora/projects/blob/main/NASA%20Ames%20Honor%20Award.jpg)** – *August 2010* High-profile recognition celebrating advanced scientific software engineering architecture and technical system deliverables for mission telemetry data pipelines.
+* **[Lockheed Wingspread Award](https://github.com/devservice-ora/projects/blob/main/Award-Lockheed-Wingspread.jpg)** – *May 1996* Honoring elite technical engineering execution and innovation benchmarks in Lockheed Martin Information & Technology Services (LM IS&T).
+* **[Letter of Appreciation (EVC - Rol Morris)](https://github.com/devservice-ora/projects/blob/main/LetterOfAppreciation-EVC-Rol-Morris.jpg)** – Deep peer commendation highlighting outstanding operational contributions and cross-functional technical support execution.
 
 ### 🏢 Corporate Engineering Milestones
-* **PeopleSoft Outstanding Contributor Award** – *February 2004* Celebrating high-impact technical development and exceptional architecture contributions inside the enterprise product suite.
-* **PeopleSoft 8 Hero Award** – *February 2011 Archive* Individual recognition for heroic code-base optimization and architectural system engineering during the foundational platform deployment.
+* **[PeopleSoft Outstanding Contributor Award](https://github.com/devservice-ora/projects/blob/main/Award-PSFT-OutstandingContributor2004.JPG)** – *February 2004* Celebrating high-impact technical development and exceptional architecture contributions inside the enterprise product suite.
+* **[PeopleSoft 8 Hero Award](https://github.com/devservice-ora/projects/blob/main/Award-PSFT-PeopleSoft8HeroAward.jpg)** – *February 2011 Archive* Individual recognition for heroic code-base optimization and architectural system engineering during the foundational platform deployment.
 
 ---
 
