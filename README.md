@@ -67,10 +67,10 @@ The following formal certificates, credentials, and structural archive items are
 
 ---
 *Verified Portfolio Repository Archive — June 2026.*
-* **NASA Ames Honor Award** – Scientific software telemetry system engineering commendation (August 2010).
-* **Lockheed Wingspread Award** – High-impact aerospace engineering innovation distinction (May 1996).
-* **PeopleSoft Outstanding Contributor Award** –  Recognized for significant contributions to PeopleSoft PeopleTools in Data Administration (February 2004).
-* **PeopleSoft 8 Hero Award** – Recognized for significant contributions to PeopleSoft PeopleTools in the Data Mover and PeopleSoft Update Manager Tools.. (February 1999).
+* **[NASA Ames Honor Award](https://github.com/devservice-ora/projects/blob/main/NASA%20Ames%20Honor%20Award.jpg)** – Scientific software telemetry system engineering commendation (August 2010).
+* **[Lockheed Wingspread Award](https://github.com/devservice-ora/projects/blob/main/Award-Lockheed-Wingspread.jpg)** – High-impact aerospace engineering innovation distinction (May 1996).
+* **[PeopleSoft Outstanding Contributor Award](https://github.com/devservice-ora/projects/blob/main/Award-PSFT-OutstandingContributor2004.JPG)** –  Recognized for significant contributions to PeopleSoft PeopleTools in Data Administration (February 2004).
+* **[PeopleSoft 8 Hero Award](https://github.com/devservice-ora/projects/blob/main/Award-PSFT-PeopleSoft8HeroAward.jpg)** – Recognized for significant contributions to PeopleSoft PeopleTools in the Data Mover and PeopleSoft Update Manager Tools.. (February 1999).
 * **FEMA IS-100.C Emergency Management Certificate** – Introduction to the Incident Command System (October 2025).
 * **IPD Week Professional Development Award** – Instructional academic enhancement milestone (February 2026).
 * **Managing a Business Venture Certificate** – Strategic accounting and risk operational planning (May 2026).
