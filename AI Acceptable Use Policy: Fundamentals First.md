@@ -25,7 +25,7 @@ AI is an incredible co-pilot, but it cannot replace critical problem-solving, ar
 ## 2. Permitted vs. Prohibited Use
 
 ### 🟢 Permitted (AI as a Learning Aid)
-You are encouraged to use generative AI tools (e.g., ChatGPT, Clause, Copilot, Gemini, GitHub) to enhance your learning in the following ways:
+***Students*** are encouraged to use generative AI tools (e.g., ChatGPT, Clause, Copilot, Gemini, GitHub) to enhance your learning in the following ways:
 * **Concept Exploration:** Asking for alternative explanations of complex lecture topics or theoretical data structures.
 * **Brainstorming:** Mapping out high-level pseudo-code logic or discussing architectural patterns for a project.
 * **Code Optimization:** Submitting your *already written and functioning* code to check for style adjustments, formatting, or performance bottlenecks.
@@ -40,7 +40,7 @@ The following uses of AI bypass the learning process and constitute a violation 
 
 ## 3. The Litmus Test (Accountability)
 
-In the software industry, you are completely accountable for the stability and security of the code you deploy. In this classroom, you are completely accountable for the code you submit.
+***Students*** are solely accountable for ensuring the stability and security of their submitted source code.
 
 > 💡 **The Golden Rule:** If you use an AI tool to assist your learning workflow, you must still be able to completely explain the underlying logic, algorithm, and data structures during a live code review or oral explanation. **If you cannot explain it, you did not learn it—and it will not receive credit.**
 
