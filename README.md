@@ -51,9 +51,8 @@ The following formal certificates, credentials, and structural archive items are
 * **Ethical Hacker Certificate** – Cisco Networking Academy offensive safety credential (November 2025).
 
 ### 🏆 Academic Laurels, Distinctions & Strategic Management
-*Verified Portfolio Repository Archive — June 2026.*
-* **Adjunct Faculty Service Award (15 Years)** – Formally celebrating continuous academic dedication (June 2018).
-* **Ohlone College Faculty Shining Star Award** – Recognized for significant achievements and contributions to teaching and learning. (May 2016)
+* **[Adjunct Faculty Service Award (15 Years)](https://github.com/devservice-ora/projects/blob/main/AdjunctServiceAward-15years.JPG)** – Formally celebrating continuous academic dedication (June 2018).
+* **[Ohlone College Faculty Shining Star Award](https://github.com/devservice-ora/projects/blob/main/Award-OC-Shinning%20Star%20in%20Success-2016.jpg)** – Recognized for significant achievements and contributions to teaching and learning. (May 2016)
 * **CERT Community Emergency Response Training Certificate** – Fundamental skills through classroom and hands-on Disaster Preparedness, Fire Safety, Disaster Medical Operations, Light Search, Rescue Operations, and Disaster Psychology. (September 2019).
 * **Cisco Instructor 5 Years of Active Service Award** – Milestone badge tracking community technical leadership.
 * **[NASA Ames Honor Award](https://github.com/devservice-ora/projects/blob/main/NASA%20Ames%20Honor%20Award.jpg)** – Scientific software telemetry system engineering commendation (August 2010).
