@@ -1,4 +1,10 @@
-Here are some of the most practical and effective prompt examples tailored specifically for **Computer Science (CS) students**, broken down by how they can help you code, debug, learn theory, and prepare for interviews.
+# Examples of practical prompts for **Computer Science (CS) students**
+
+**[Jim D. Pham](https://github.com/devservice-ora/articles/blob/main/README.md)**
+
+> I posed this question to AI: Give a list of AI prompt examples for students.
+
+---
 
 ### 1. The Code Debugger & Explainer
 
