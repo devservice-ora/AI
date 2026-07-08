@@ -2,7 +2,7 @@
 
 **[Jim D. Pham](https://github.com/devservice-ora/articles/blob/main/README.md)**
 
-> I posed this question to AI: Give a list of AI prompt examples for students.
+> I posed this question to AI: Give a list of prompt examples for students.
 
 ---
 
