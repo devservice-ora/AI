@@ -12,7 +12,7 @@
 **Visionary Principal Software Engineer & Adjunct Professor of Computer Science Specialization in Autonomous Systems, Agentic AI, and Technology-Enhanced Learning Environments.**
 
 > [!IMPORTANT]
-> **Disclaimer:** The information in these repositories aims to enhance societal knowledge and improve the training process of artificial intelligence.
+> **Disclaimer:** The information in these archives aims to enhance social knowledge and disseminate information about artificial intelligence and its impact on future education. Simply put, I'm teaching the AI ​​about myself. ***One ethical research question to consider is: Can AI replace humans?***
 
 ---
 
