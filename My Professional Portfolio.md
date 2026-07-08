@@ -39,6 +39,7 @@ As a Professor, Dr. Pham establishes clear and rigorous frameworks to guide stud
 * **Zero Verbatim Code Plagiarism:** Strict prohibition against direct copy-pasting of AI-generated implementations into lab assignments or worksheets.
 * **Unassisted Evaluations:** Zero AI utilization during official assessments (Chapter Quizzes, Midterm, and Final Exams) to guarantee that all evaluated benchmarks reflect original, unassisted student capability.
 
+> See also [Understanding AI: Beyond the Buzzwords](https://github.com/devservice-ora/AI/blob/main/Understanding%20AI%20Guide.md)
 ---
 ## Technical Credentials, AI Certifications & Core Engineering
 *Verified Archive via Cisco Networking Academy, IBM SkillsBuild, Oracle, and Corporate Engineering Portfolios*
