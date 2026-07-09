@@ -1,6 +1,6 @@
 # AI Mindtools Framework: Engineering & Cognitive Problem-Solving
 
-Building upon the technology-based modeling frameworks pioneered by **[Jim D. Pham](https://github.com/devservice-ora/articles/blob/main/MindTools.pdf)**, with the aim of improving student learning outcomes.
+Building upon the technology-based modeling frameworks from **[Jim D. Pham's](https://github.com/devservice-ora/articles/blob/main/MindTools.pdf)** research, with the aim of improving students' problem-solving abilities.
 
 ---
 
