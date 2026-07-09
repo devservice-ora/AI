@@ -56,6 +56,7 @@ The concept is based on the frameworks of [Concept Mapping, Semantic Networks, a
 ### B. Technical Engineering Tools
 * **Advanced Modeling Applications:** Specialized environments like Rational modeling software, Visio, Erwin, and System Architect by Teleologic are frequently leveraged by engineers to structure complex systems and organize thought processes.
 * **Data Modeling & Management Software:**
+  * **Oracle Database 23ai:** Similar to AI vector databases, it can be used to map and assign weights to key terms within a data dimension to determine which answers will be presented.
   * **Microsoft Excel:** An excellent environment to represent a specific concept or idea and its related sub-concepts within a single data grid.
   * **[Relational Database Management System (RDBMS)](https://github.com/devservice-ora/articles/blob/main/MindTools%20-%20Database%20and%20Relationship.pdf):** Like Microsoft Access, it provides robust user facilities to create tables, design fields, and establish relationships between data tables.
   * **Microsoft Project:** A project management tool offering graphical features to map out tasks or visually break down a large task into smaller, manageable sub-tasks.
