@@ -1,6 +1,6 @@
 # AI Mindtools Framework: Engineering & Cognitive Problem-Solving
 
-Building upon the technology-based modeling frameworks from **[Jim D. Pham's](https://github.com/devservice-ora/articles/blob/main/MindTools.pdf)** research, with the aim of improving students' problem-solving abilities.
+Building upon the technology-based **[MindTools](https://github.com/devservice-ora/articles/blob/main/MindTools.pdf)** modeling frameworks from **[Jim D. Pham's](https://github.com/devservice-ora/articles/blob/main/README.md#2-educational-technology--mindtools)** research, with the aim of improving students' problem-solving abilities.
 
 > **Note:** With AI's remarkable capabilities, I prompted assistance in mapping out concepts from my research to enhance students' cognitive problem-solving. It just appeared miraculously, transforming the content in just a few minutes. This is truly amazing!
 
@@ -8,8 +8,10 @@ Building upon the technology-based modeling frameworks from **[Jim D. Pham's](ht
 
 ## 1. Central Concept: The Role of AI Mindtools
 * **Definition:** AI Mindtools are collaborative thinking and modeling environments that break a complex problem into small, manageable, and explainable parts.
+  > * This concept is also related to the Object-Oriented Programming (OOP) methodology in computer science.
+  > * Similarly, a set of AI prompt patterns, organized into a step-by-step instruction sequence, will support the AI's analysis chronologically, revealing the reasoning mechanism and providing a valid, non-hallucinatory answer.
 * **Theoretical Foundation:** These tools are deeply rooted in constructivist theory, where technology serves as an active medium for communicating ideas directly to learners.
-* **Core Philosophy:** If a learner cannot build a structured model of what they are studying, they do not truly understand it. AI acts as an interactive partner to facilitate and scaffold this critical modeling process.
+* **Core Philosophy:** If a learner cannot build a **structured model** of what they are studying, they do not truly understand it. AI acts as an interactive partner to facilitate and scaffold this critical modeling process.
 
 ---
 
