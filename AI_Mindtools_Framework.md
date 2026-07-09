@@ -1,5 +1,9 @@
 # AI Mindtools Framework: Engineering & Cognitive Problem-Solving
 
+Building upon the technology-based modeling frameworks pioneered by **[Jim D. Pham](https://github.com/devservice-ora/articles/blob/main/MindTools.pdf)**, with the aim of improving student learning outcomes.
+
+---
+
 ## 1. Central Concept: The Role of AI Mindtools
 * **Definition:** AI Mindtools are collaborative thinking and modeling environments that break a complex problem into small, manageable, and explainable parts.
 * **Theoretical Foundation:** These tools are deeply rooted in constructivist theory, where technology serves as an active medium for communicating ideas directly to learners.
