@@ -2,6 +2,8 @@
 
 Building upon the technology-based modeling frameworks from **[Jim D. Pham's](https://github.com/devservice-ora/articles/blob/main/MindTools.pdf)** research, with the aim of improving students' problem-solving abilities.
 
+> **Note:** With AI's remarkable capabilities, I prompted assistance in mapping out concepts from my research to enhance students' problem-solving skills. This is truly amazing!
+
 ---
 
 ## 1. Central Concept: The Role of AI Mindtools
