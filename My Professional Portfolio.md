@@ -30,6 +30,10 @@ As a Professor, Dr. Pham establishes clear and rigorous frameworks to guide stud
 
 > See also [Teaching Statement](https://github.com/devservice-ora/articles/blob/main/Teaching%20Statement.pdf)
 
+### 🧠 AI Mindtools Framework
+* **[MindTools modeling frameworks](https://github.com/devservice-ora/AI/blob/main/AI_Mindtools_Framework.md):** AI Mindtools Framework: Engineering & Cognitive Problem-Solving.
+* **[Cognitive Mapping Strategies](https://github.com/devservice-ora/AI/blob/main/AI_Mindtools_and_Mapping_Framework.md):** AI Mindtools and Mapping Framework: Engineering & Cognitive Mapping Strategies
+
 ### 🌟 Acceptable AI Deployment
 * **Conceptual Exploration:** Leveraging LLMs for comprehensive, detailed explanations and multi-layered summaries of intricate computer science architectures.
 * **Cognitive Scaffolding / Assignment Hints:** Engaging with AI as a Socratic guide to receive strategic hints, encouraging algorithmic thinking without bypassing the problem-solving phase.
