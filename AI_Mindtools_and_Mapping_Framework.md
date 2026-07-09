@@ -1,8 +1,8 @@
 # AI Mindtools Framework: Engineering & Cognitive Problem-Solving
 
-This document provides an integrated framework combining cognitive mapping strategies, semantic network architectures, computer-based mindtools, and their modernization through generative Artificial Intelligence (AI). 
+This document presents an integrated framework that combines cognitive mapping strategies, semantic network architectures, and computer-based mind tools, while also modernizing these approaches through generative Artificial Intelligence (AI).
 
-It builds on the frameworks of "Concept Mapping, Semantic Networks, and Mindtools" from **[Jim D. Pham's](https://github.com/devservice-ora/articles/blob/main/MindTools%20-%20Concept%20Maps%20and%20Semantic%20Networks.pdf)** research, the aim is to enhance student learning outcomes through AI.
+The concept is based on the frameworks of "Concept Mapping, Semantic Networks, and Mindtools" from **[Jim D. Pham's](https://github.com/devservice-ora/articles/blob/main/MindTools%20-%20Concept%20Maps%20and%20Semantic%20Networks.pdf)** research. The aim is to enhance students' problem-solving abilities using AI.
 
 ---
 
