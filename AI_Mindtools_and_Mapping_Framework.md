@@ -4,7 +4,7 @@ This document presents an integrated framework that combines cognitive mapping s
 
 The concept is based on the frameworks of "Concept Mapping, Semantic Networks, and Mindtools" from **[Jim D. Pham's](https://github.com/devservice-ora/articles/blob/main/MindTools%20-%20Concept%20Maps%20and%20Semantic%20Networks.pdf)** research. The aim is to enhance students' problem-solving abilities using AI.
 
-> **Note:** With AI's remarkable capabilities, I prompted assistance in mapping out concepts from my research to enhance students' cognitive problem-solving.  It just appeared miraculously, transforming the content in just a few seconds. ***This is truly amazing!***
+> **Note:** With AI's remarkable capabilities, I prompted assistance in mapping out concepts from my research to enhance students' cognitive problem-solving.  It just appeared miraculously, transforming the content in just a few minutes. ***This is truly amazing!***
 
 ---
 
