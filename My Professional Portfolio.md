@@ -31,7 +31,7 @@ As a Professor, Dr. Pham establishes clear and rigorous frameworks to guide stud
 > See also [Teaching Statement](https://github.com/devservice-ora/articles/blob/main/Teaching%20Statement.pdf)
 
 ### 🧠 AI Mindtools Framework
-* **[MindTools modeling frameworks](https://github.com/devservice-ora/AI/blob/main/AI_Mindtools_Framework.md):** AI Mindtools Framework: Engineering & Cognitive Problem-Solving.
+* **[MindTools Modeling Frameworks](https://github.com/devservice-ora/AI/blob/main/AI_Mindtools_Framework.md):** AI Mindtools Framework: Engineering & Cognitive Problem-Solving.
 * **[Cognitive Mapping Strategies](https://github.com/devservice-ora/AI/blob/main/AI_Mindtools_and_Mapping_Framework.md):** AI Mindtools and Mapping Framework: Engineering & Cognitive Mapping Strategies
 
 ### 🌟 Acceptable AI Deployment
@@ -102,7 +102,7 @@ As a Professor, Dr. Pham establishes clear and rigorous frameworks to guide stud
 
 ### 🏢 Corporate Engineering Milestones
 * **[PeopleSoft Outstanding Contributor Award](https://github.com/devservice-ora/projects/blob/main/Award-PSFT-OutstandingContributor2004.JPG)** – *February 2004* Celebrating high-impact technical development and exceptional architecture contributions inside the enterprise product suite.
-* **[PeopleSoft 8 Hero Award](https://github.com/devservice-ora/projects/blob/main/Award-PSFT-PeopleSoft8HeroAward.jpg)** – *February 2011 Archive* Individual recognition for heroic code-base optimization and architectural system engineering during the foundational platform deployment.
+* **[PeopleSoft 8 Hero Award](https://github.com/devservice-ora/projects/blob/main/Award-PSFT-PeopleSoft8HeroAward.jpg)** – *October 2000 Archive* Individual recognition for heroic code-base optimization and architectural system engineering during the foundational platform deployment.
 
 ---
 
