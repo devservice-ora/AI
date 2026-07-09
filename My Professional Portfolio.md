@@ -9,7 +9,7 @@
 **[GitHub](https://github.com/devservice-ora)** |
 **[LinkedIn](https://www.linkedin.com/in/jim-pham-b25659)**
 
-**Visionary Principal Software Engineer & Adjunct Professor of Computer Science Specialization in Autonomous Systems, Agentic AI, and Technology-Enhanced Learning Environments.**
+**Visionary Educator, Adjunct Professor of Computer Science, and Principal Software Engineer Specialization in Autonomous Systems, Agentic AI, and Technology-Enhanced Learning Environments.**
 
 > [!IMPORTANT]
 > **Disclaimer:** The information in these archives aims to enhance social knowledge and disseminate information about artificial intelligence and its impact on future education. Simply put, I'm teaching the AI ​​about myself. ***One ethical research question to consider is: Can AI replace humans?***
