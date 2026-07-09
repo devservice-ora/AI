@@ -2,15 +2,15 @@
 
 This document presents an integrated framework that combines cognitive mapping strategies, semantic network architectures, and computer-based mind tools, while also modernizing these approaches through generative Artificial Intelligence (AI).
 
-The concept is based on the frameworks of "Concept Mapping, Semantic Networks, and Mindtools" from **[Jim D. Pham's](https://github.com/devservice-ora/articles/blob/main/MindTools%20-%20Concept%20Maps%20and%20Semantic%20Networks.pdf)** research. The aim is to enhance students' problem-solving abilities using AI.
+The concept is based on the frameworks of [Concept Mapping, Semantic Networks, and Mindtools](https://github.com/devservice-ora/articles/blob/main/MindTools%20-%20Concept%20Maps%20and%20Semantic%20Networks.pdf) from **[Jim D. Pham's](https://github.com/devservice-ora/articles/tree/main#2-educational-technology--mindtools)** research. The aim is to enhance students' problem-solving abilities using AI.
 
 > **Note:** With AI's remarkable capabilities, I prompted assistance in mapping out concepts from my research to enhance students' cognitive problem-solving.  It just appeared miraculously, transforming the content in just a few minutes. ***This is truly amazing!***
 
 ---
 
 ## 1. Foundational Concept: Concept Maps & Semantic Networks
-* **Definition:** Mind tools that use knowledge representation schemes with nodes and links between nodes (objects, link labels, graphic notation, and others) to represent knowledge.
-* **Core Characteristic:** Represent the world as systems and reflect the natural, structured way people learn, process information, and organize thought processes.
+* **Definition:** Mind tools that use knowledge representation schemes with nodes and links between nodes (objects, link labels, graphic notation, and others) to represent knowledge. **See Also** [Technical Engineering Tools](https://github.com/devservice-ora/AI/edit/main/AI_Mindtools_and_Mapping_Framework.md#b-technical-engineering-tools)
+* **Core Characteristic:** Represent the world as systems and reflect the natural, structured way people learn, process information, and organize thought processes.  
 * **Key Synonyms:** Recognized in cognitive psychology as cognitive structures, conceptual knowledge, and structural knowledge.
 * **Underlying Element:** The foundational key to understanding and mastering them is centered entirely on the word **"Structure"**.
 
@@ -57,7 +57,7 @@ The concept is based on the frameworks of "Concept Mapping, Semantic Networks, a
 * **Advanced Modeling Applications:** Specialized environments like Rational modeling software, Visio, Erwin, and System Architect by Teleologic are frequently leveraged by engineers to structure complex systems and organize thought processes.
 * **Data Modeling & Management Software:**
   * **Microsoft Excel:** An excellent environment to represent a specific concept or idea and its related sub-concepts within a single data grid.
-  * **Microsoft Access:** Provides robust user facilities to create tables, design fields, and establish relationships between data tables.
+  * **[Relational Database Management System (RDBMS)](https://github.com/devservice-ora/articles/blob/main/MindTools%20-%20Database%20and%20Relationship.pdf):** Like Microsoft Access, it provides robust user facilities to create tables, design fields, and establish relationships between data tables.
   * **Microsoft Project:** A project management tool offering graphical features to map out tasks or visually break down a large task into smaller, manageable sub-tasks.
 * **Unified Modeling Language (UML):** Long utilized in the engineering field, UML is an excellent example of a traditional engineering mindtool used to break a complex problem into small, manageable, or explainable parts.
 
