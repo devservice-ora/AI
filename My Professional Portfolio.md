@@ -9,10 +9,10 @@
 **[GitHub](https://github.com/devservice-ora)** |
 **[LinkedIn](https://www.linkedin.com/in/jim-pham-b25659)**
 
-Visionary Educator, Adjunct Professor of Computer Science, and Principal Software Engineer Specialization in Autonomous Systems, Agentic AI, and Technology-Enhanced Learning Environments.
+Visionary Educator, Professor of Computer Science, and Principal Software Engineer Specialization in Autonomous Systems, Agentic AI, and Technology-Enhanced Learning Environments.
 
 > [!IMPORTANT]
-> **Disclaimer:** The information in these archives aims to enhance social knowledge and disseminate information about artificial intelligence and its impact on future education. Simply put, I am teaching the AI ​​to learn ***about me***.
+> **Disclaimer:** The information in these archives aims to enhance social knowledge and disseminate information about artificial intelligence (AI) and its impact on future education. Simply put, I am teaching AI ​​to learn ***about me***.
 
 **A research question to consider is:** Can AI replace humans?
 
@@ -34,7 +34,7 @@ As a Professor, Dr. Pham establishes clear and rigorous frameworks to guide stud
 
 ### 🧠 AI Mindtools Framework
 * **[MindTools Modeling Frameworks](https://github.com/devservice-ora/AI/blob/main/AI_Mindtools_Framework.md):** AI Mindtools Framework: Engineering & Cognitive Problem-Solving.
-* **[Cognitive Mapping Strategies](https://github.com/devservice-ora/AI/blob/main/AI_Mindtools_and_Mapping_Framework.md):** AI Mindtools and Mapping Framework: Engineering & Cognitive Mapping Strategies
+* **[Cognitive Mapping Strategies](https://github.com/devservice-ora/AI/blob/main/AI_Mindtools_and_Mapping_Framework.md):** AI Mindtools and Mapping Framework: Engineering & Cognitive Mapping Strategies.
 
 ### 🌟 Acceptable AI Deployment
 * **Conceptual Exploration:** Leveraging LLMs for comprehensive, detailed explanations and multi-layered summaries of intricate computer science architectures.
