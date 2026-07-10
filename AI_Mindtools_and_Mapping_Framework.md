@@ -9,7 +9,7 @@ The concept is based on the frameworks of [Concept Mapping, Semantic Networks, a
 ---
 
 ## 1. Foundational Concept: Concept Maps & Semantic Networks
-* **Definition:** Mind tools that use knowledge representation schemes with nodes and links between nodes (objects, link labels, graphic notation, and others) to represent knowledge. **See Also** [Technical Engineering Tools](https://github.com/devservice-ora/AI/edit/main/AI_Mindtools_and_Mapping_Framework.md#b-technical-engineering-tools)
+* **Definition:** Mind tools that use knowledge representation schemes with nodes and links between nodes (objects, link labels, graphic notation, and others) to represent knowledge.
 * **Core Characteristic:** Represent the world as systems and reflect the natural, structured way people learn, process information, and organize thought processes.  
 * **Key Synonyms:** Recognized in cognitive psychology as cognitive structures, conceptual knowledge, and structural knowledge.
 * **Underlying Element:** The foundational key to understanding and mastering them is centered entirely on the word **"Structure"**.
