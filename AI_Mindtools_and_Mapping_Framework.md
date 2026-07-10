@@ -1,4 +1,4 @@
-# AI Mindtools Framework: Engineering & Cognitive Problem-Solving
+# AI Mindtools & Mapping Framework: Engineering & Cognitive Problem-Solving
 
 This document presents an integrated framework that combines cognitive mapping strategies, semantic network architectures, and computer-based mind tools, while also modernizing these approaches through generative Artificial Intelligence (AI).
 
