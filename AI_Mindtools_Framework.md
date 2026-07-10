@@ -12,6 +12,8 @@ This concept is grounded in the idea that everything is interconnected. To under
 
 ***With MindTools, we seek to answer the question: How are all things connected?***
 
+**See also:** [AI Mindtools & Mapping Framework](https://github.com/devservice-ora/AI/blob/main/AI_Mindtools_and_Mapping_Framework.md)
+
 * **Definition:** AI Mindtools are collaborative thinking and modeling environments that break a complex problem into small, manageable, and explainable parts.
   > * This concept is also related to the Object-Oriented Programming (OOP) methodology in computer science.
   > * The traditional Unified Modeling Language (UML) in software engineering remains a valuable thinking tool for modern AI models to model and connect ideas, mapping out meaningful, chronological answers to questions. 
