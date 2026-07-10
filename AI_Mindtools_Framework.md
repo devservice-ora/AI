@@ -12,14 +12,15 @@ This concept is based on the idea that everything is interconnected and is funda
 
 By cultivating mastery of the cognitive processes underlying this mindset, individuals can interpret a wide range of situations and apply them to problem-solving, tackling each problem individually.
 
+Similarly, a set of AI prompt patterns organized by cognitive processes will support the AI's analysis in chronological order, revealing the reasoning mechanism and providing a valid, non-hallucinatory answer.
+
 ***With MindTools, we seek to answer the question: How are all things connected?***
 
 **See also:** [AI Mindtools & Mapping Framework](https://github.com/devservice-ora/AI/blob/main/AI_Mindtools_and_Mapping_Framework.md)
 
 * **Definition:** AI Mindtools are collaborative thinking and modeling environments that break a complex problem into small, manageable, and explainable parts.
   > * This concept is also related to the Object-Oriented Programming (OOP) methodology in computer science.
-  > * The traditional Unified Modeling Language (UML) in software engineering remains a valuable thinking tool for modern AI models to model and connect ideas, mapping out meaningful, chronological answers to questions. 
-  > * Similarly, a set of AI prompt patterns, organized into a step-by-step instruction sequence, will support the AI's analysis chronologically, revealing the reasoning mechanism and providing a valid, non-hallucinatory answer.
+  > * Also, he traditional Unified Modeling Language (UML) in software engineering remains a valuable thinking tool for modern AI models to model and connect ideas, mapping out meaningful, chronological answers to questions.   
 * **Theoretical Foundation:** These tools are deeply rooted in constructivist theory, where technology serves as an active medium for communicating ideas directly to learners.
 * **Core Philosophy:** If a learner cannot build a **structured model** of what they are studying, they do not truly understand it. AI acts as an interactive partner to facilitate and scaffold this critical modeling process.
 
