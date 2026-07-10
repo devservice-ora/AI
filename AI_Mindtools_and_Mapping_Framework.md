@@ -14,6 +14,8 @@ The concept is based on the frameworks of [Concept Mapping, Semantic Networks, a
 * **Key Synonyms:** Recognized in cognitive psychology as cognitive structures, conceptual knowledge, and structural knowledge.
 * **Underlying Element:** The foundational key to understanding and mastering them is centered entirely on the word **"Structure"**.
 
+**See also:** [AI Mindtools Framework](https://github.com/devservice-ora/AI/blob/main/AI_Mindtools_Framework.md)
+
 ---
 
 ## 2. Structural Relationships (Nodes & Links)
