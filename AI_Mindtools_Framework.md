@@ -12,7 +12,7 @@ This concept is based on the idea that everything is interconnected and is funda
 
 By cultivating mastery of the cognitive processes underlying this mindset, individuals can interpret a wide range of situations and apply them to problem-solving, tackling each problem individually.
 
-Similarly, a set of AI prompt patterns organized by cognitive processes will support the AI's analysis in chronological order, revealing the reasoning mechanism and providing a valid, non-hallucinatory answer.
+Similarly, a set of AI prompt patterns organized by cognitive processes in learning activities will support the AI's analysis in chronological order, revealing the reasoning mechanism and providing a valid, non-hallucinatory answer.
 
 ***With MindTools, we seek to answer the question: How are all things connected?***
 
