@@ -1,4 +1,4 @@
-# AI Mindtools Framework: Engineering & Cognitive Problem-Solving
+# 🧠 AI Mindtools Framework: Engineering & Cognitive Problem-Solving
 
 Building upon the technology-based **[MindTools](https://github.com/devservice-ora/articles/blob/main/MindTools.pdf)** modeling frameworks from **[Jim D. Pham's](https://github.com/devservice-ora/articles/blob/main/README.md#2-educational-technology--mindtools)** research, with the aim of improving students' problem-solving abilities.
 
