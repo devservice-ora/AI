@@ -4,6 +4,8 @@ Building upon the technology-based **[MindTools](https://github.com/devservice-o
  
 > **Disclaimer:** The information in these archives aims to enhance social knowledge and disseminate information about artificial intelligence (AI) and its impact on future education.
 
+---
+
 Imagine the **universe** is a massive puzzle that has already been built. There is **only one way the puzzle pieces connect** (the **Universal Truth**), but there are **hundreds of different ways you can explore and interact with it**. 
 
 In learning and cognitive science, the **Mindtools Model** operationalizes this concept. Mindtools are computer-based tools and modeling environments that function as intellectual partners. Instead of forcing learners to watch a single, rigid demonstration of the puzzle, a Mindtool provides a variety of digital toolsets (the multiple paths) that allow students to navigate, test parameters, and use the existing **structure** of the model to construct their own knowledge until their understanding successfully anchors into the single, objective reality (the one answer).
