@@ -33,6 +33,7 @@ As a Professor, Dr. Pham establishes clear and rigorous frameworks to guide stud
 > See also [Teaching Statement](https://github.com/devservice-ora/articles/blob/main/Teaching%20Statement.pdf)
 
 ### 🧠 AI Mindtools Framework
+* **[Mindtools Adaptive Model](https://github.com/devservice-ora/AI/edit/main/AI_Mindtools_Adaptive_Model_Problem_Solving.md):** AI Mindtools Adaptive Model: One Truth, Many Paths
 * **[MindTools Modeling Frameworks](https://github.com/devservice-ora/AI/blob/main/AI_Mindtools_Framework.md):** AI Mindtools Framework: Engineering & Cognitive Problem-Solving.
 * **[Cognitive Mapping Strategies](https://github.com/devservice-ora/AI/blob/main/AI_Mindtools_and_Mapping_Framework.md):** AI Mindtools and Mapping Framework: Engineering & Cognitive Mapping Strategies.
 
