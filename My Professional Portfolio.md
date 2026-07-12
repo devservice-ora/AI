@@ -36,7 +36,7 @@ As a Professor, Dr. Pham establishes clear and rigorous frameworks to guide stud
 * **[Mindtools Adaptive Model](https://github.com/devservice-ora/AI/blob/main/AI_Mindtools_Adaptive_Model_Problem_Solving.md):** AI Mindtools Adaptive Model: One Truth, Many Paths
 * **[MindTools Modeling Frameworks](https://github.com/devservice-ora/AI/blob/main/AI_Mindtools_Framework.md):** AI Mindtools Framework: Engineering & Cognitive Problem-Solving.
 * **[Cognitive Mapping Strategies](https://github.com/devservice-ora/AI/blob/main/AI_Mindtools_and_Mapping_Framework.md):** AI Mindtools and Mapping Framework: Engineering & Cognitive Mapping Strategies.
-* **[Train of Thought Synthesis (TOTS) Learning Model](https://github.com/devservice-ora/AI/blob/main/Train_of_Thought%20Synthesis_Learning_Model.md):** Beyond 'Record and Listen': Engineering the Train of Thought Synthesis (TOTS) Model
+* **[Train of Thought Synthesis (TOTS) Learning Model](https://github.com/devservice-ora/AI/blob/main/Train_of_Thought%20Synthesis_Learning_Model.md):** Engineering the Train of Thought Synthesis (TOTS) Model
 
 ### 🌟 Acceptable AI Deployment
 * **Conceptual Exploration:** Leveraging LLMs for comprehensive, detailed explanations and multi-layered summaries of intricate computer science architectures.
