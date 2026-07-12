@@ -1,17 +1,8 @@
----
-title: "Beyond 'Record and Listen': Engineering the Train of Thought Synthesis (TOTS) Model"
-date: 2026-07-12
-tags: [Pedagogy, Educational Technology, AI, Constructivism, Pragmatism]
-category: Learning Theory
-author: Professor
-draft: false
----
-
 # 🧠 Train of Thought Synthesis (TOTS) Learning Model
 
 Building upon the Educational Technology and "MindTools" from **[Jim D. Pham's](https://github.com/devservice-ora/articles/blob/main/README.md#2-educational-technology--mindtools)** research, with the aim of improving students' problem-solving abilities.
 
-> **Disclaimer:** This framework is built upon and extends the findings of the empirical study, *Effect of Educational Podcasts on Student Performance*, which demonstrates how repeated audio engagement outside the classroom transforms content into an invaluable study aid and drives conceptual crystallization[cite: 1]. You can view the full foundational research paper [here](https://github.com/devservice-ora/articles/blob/main/Dissertation%20-%20A%20Case%20Study%20of%20the%20Classroom%20Podcast.pdf).
+> **Disclaimer:** This framework is built upon and extends the findings of the empirical study, ***Effect of Educational Podcasts on Student Performance***, which demonstrates how repeated audio engagement outside the classroom transforms content into an invaluable study aid and drives conceptual crystallization. You can view the full foundational research paper [here](https://github.com/devservice-ora/articles/blob/main/Dissertation%20-%20A%20Case%20Study%20of%20the%20Classroom%20Podcast.pdf).
 
 ---
 
@@ -91,3 +82,17 @@ NEW CONVERSATIONAL "TRAIN OF THOUGHT" PATHWAY (TOTS Model - A Natural Thinking P
                                           ▼
                              [DYNAMIC LEARNING PORTFOLIO]
                         (Evolving Repository of Mastery)
+```
+
+---
+
+### ℹ️ Beyond 'Record and Listen': Engineering the Train of Thought Synthesis (TOTS) Model
+   <footer>
+        <p class="meta">
+            <strong>Author:</strong> Jim D. Pham <br>
+            <strong>Date:</strong> July 12, 2026 <br>
+            <strong>Category:</strong> Learning Theory <br>
+            <strong>Tags:</strong> Pedagogy, Educational Technology, AI, Constructivism, Pragmatism
+        </p>
+    </footer>
+
