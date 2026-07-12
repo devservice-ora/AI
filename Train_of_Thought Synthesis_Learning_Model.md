@@ -20,8 +20,8 @@ Additionally, AI can be used to gather these ideas and help with their connectio
 ## Example of Use
 Imagine a student who is deeply **engaged in a learning activity**, such as studying basic `if/else` conditional logic and loops in an introductory programming class, or navigating any other real-life circumstance, as this model mirrors a natural thinking process. 
 
-* **The Raw Input:** As the concept clicks during an exercise, the student speaks naturally toward their desk setup: 
-  > *"Okay, an `if` statement is just like a fork in the road where the code decides to take one path based on a condition. But wait, if I want the program to keep checking that condition over and over without stopping, do I just copy and paste the `if` block ten times, or is that where a `while` loop comes in? How do they connect without breaking the program?"*
+* **The Raw Input:** As the concept clicks during an exercise, the student speaks out naturally or puts the thought process into practice, for example: 
+  > *"Okay, An `if` statement serves as a decision point in code, determining the path based on a condition. To continuously evaluate that condition, it is more efficient to use a while loop instead of duplicating the `if` block. This method allows both structures to work together without causing errors."*
 * **The System Response:** Instead of just recording this as a static voice memo to be filed away or listened to later like a track on a playlist, the logical engine transcribes the thought, instantly chunks it into a structural outline, and automatically generates a bidirectional bridge to the prior week's lesson on basic variables. It highlights the "loose end" (the transition from single conditions to repeating loops) and immediately surfaces an interactive debugging puzzle to challenge the student, transforming a fleeting thought into an active, long-term conceptual asset that is permanently committed to their growing learning portfolio.
 
 ---
