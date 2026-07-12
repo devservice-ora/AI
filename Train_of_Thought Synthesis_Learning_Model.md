@@ -2,6 +2,18 @@
 
 Building upon the Educational Technology and "MindTools" from **[Jim D. Pham's](https://github.com/devservice-ora/articles/blob/main/README.md#2-educational-technology--mindtools)** research, with the aim of improving students' problem-solving abilities.
 
+**I prompted AI:** `How quickly do people forget things they see for the first time?`
+
+Cognitive theorists describe the retention and forgetting of visual information through a structured timeline comprising three phases, each with distinct durations:
+
+1. **Sensory Memory:** Lasts 0.2 to 0.5 seconds, briefly holding sensory input.
+   
+2. **Working Memory (Short-Term Memory):** Lasts 10 to 30 seconds, enabling active processing of information.
+
+3. **Long-Term Memory:** Preserves information from days to years, crucial for retaining knowledge.
+
+Without effective strategies for information preservation, valuable knowledge may be lost. The Train of Thought Synthesis (TOTS) model offers a framework to enhance the consolidation and retention of information across these memory phases.
+
 **See also:**  [AI Mindtools & Mapping Framework](https://github.com/devservice-ora/AI/blob/main/AI_Mindtools_and_Mapping_Framework.md) | [AI Mindtools Framework](https://github.com/devservice-ora/AI/blob/main/AI_Mindtools_Framework.md) | [AI Mindtools Adaptive Model Problem Solving](https://github.com/devservice-ora/AI/blob/main/AI_Mindtools_Adaptive_Model_Problem_Solving.md)
 
 > **Disclaimer:** This framework is built upon and extends the findings of the empirical study, ***Effect of Educational Podcasts on Student Performance***, which demonstrates how repeated audio engagement outside the classroom transforms content into an invaluable study aid and drives conceptual crystallization. You can view the full foundational research paper [here](https://github.com/devservice-ora/articles/blob/main/Dissertation%20-%20A%20Case%20Study%20of%20the%20Classroom%20Podcast.pdf).
@@ -13,7 +25,7 @@ The **Train of Thought Synthesis (TOTS)** model is a constructivist, pragmatist 
 
 When a student engages in a learning activity, fresh concepts can feel like a chaotic collection of **loose ends** that sit in a cognitive vacuum. While repeatedly listening to or reviewing material (much like playing back an educational podcast or repeating a favorite song) can eventually crystallize those ideas over time, the TOTS model bypasses the passive time delay. By instantly capturing your train of thought and transferring it into an active, contextual framework of meaning, it ties up loose ends, anchors new insights to your prior knowledge, and builds entirely new knowledge through an automated, conversational knowledge graph. As students acquire this new knowledge, they add to their learning portfolio, continuously building on this new knowledge with additional insights to expand their intellectual footprint over time. 
 
-Additionally, AI can be used to gather these ideas and help with their connection, serving as the central cognitive glue that maps disparate thoughts into a unified, logical structure. With the rapid adoption and breakthrough of AI, this concept can be seamlessly applied in daily activities to acquire new knowledge outside of traditional structured study environments. Crucially, this model isn't just for programming; it can be used in every circumstance, as it mirrors a natural thinking process inherent to how the human mind instinctively maps the world.
+Additionally, AI can be used to gather these ideas and help with their connection, serving as the central cognitive glue that maps disparate thoughts into a unified, logical structure. With the rapid adoption and breakthrough of AI, this concept can be seamlessly applied in daily activities to acquire new knowledge outside of traditional structured study environments. Crucially, this model can be used in any situation, as it mirrors a natural thinking process inherent to how the human mind instinctively maps the surroundings.
 
 ---
 
