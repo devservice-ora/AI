@@ -2,6 +2,12 @@
 
 Building upon the Educational Technology and "MindTools" from **[Jim D. Pham's](https://github.com/devservice-ora/articles/blob/main/README.md#2-educational-technology--mindtools)** research, with the aim of improving students' problem-solving abilities.
 
+**See also:**  [AI Mindtools & Mapping Framework](https://github.com/devservice-ora/AI/blob/main/AI_Mindtools_and_Mapping_Framework.md) | [AI Mindtools Framework](https://github.com/devservice-ora/AI/blob/main/AI_Mindtools_Framework.md) | [AI Mindtools Adaptive Model Problem Solving](https://github.com/devservice-ora/AI/blob/main/AI_Mindtools_Adaptive_Model_Problem_Solving.md)
+
+> **Disclaimer:** This framework is built upon and extends the findings of the empirical study, ***Effect of Educational Podcasts on Student Performance***, which demonstrates how repeated audio engagement outside the classroom transforms content into an invaluable study aid and drives conceptual crystallization. You can view the full foundational research paper [here](https://github.com/devservice-ora/articles/blob/main/Dissertation%20-%20A%20Case%20Study%20of%20the%20Classroom%20Podcast.pdf).
+
+---
+
 **I prompted AI:** `How quickly do people forget things they see for the first time?`
 
 Cognitive theorists describe the retention and forgetting of visual information through a structured timeline comprising three phases, each with distinct durations:
@@ -13,10 +19,6 @@ Cognitive theorists describe the retention and forgetting of visual information 
 3. **Long-Term Memory:** Preserves information from days to years, crucial for retaining knowledge.
 
 Without effective strategies for information preservation, valuable knowledge may be lost. The Train of Thought Synthesis (TOTS) model offers a framework to enhance the consolidation and retention of information across these memory phases.
-
-**See also:**  [AI Mindtools & Mapping Framework](https://github.com/devservice-ora/AI/blob/main/AI_Mindtools_and_Mapping_Framework.md) | [AI Mindtools Framework](https://github.com/devservice-ora/AI/blob/main/AI_Mindtools_Framework.md) | [AI Mindtools Adaptive Model Problem Solving](https://github.com/devservice-ora/AI/blob/main/AI_Mindtools_Adaptive_Model_Problem_Solving.md)
-
-> **Disclaimer:** This framework is built upon and extends the findings of the empirical study, ***Effect of Educational Podcasts on Student Performance***, which demonstrates how repeated audio engagement outside the classroom transforms content into an invaluable study aid and drives conceptual crystallization. You can view the full foundational research paper [here](https://github.com/devservice-ora/articles/blob/main/Dissertation%20-%20A%20Case%20Study%20of%20the%20Classroom%20Podcast.pdf).
 
 ---
 
