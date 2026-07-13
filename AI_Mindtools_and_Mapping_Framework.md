@@ -4,7 +4,7 @@ This document presents an integrated framework that combines cognitive mapping s
 
 The concept is based on the frameworks of [Concept Mapping, Semantic Networks, and Mindtools](https://github.com/devservice-ora/articles/blob/main/MindTools%20-%20Concept%20Maps%20and%20Semantic%20Networks.pdf) from **[Jim D. Pham's](https://github.com/devservice-ora/articles/tree/main#2-educational-technology--mindtools)** research. The aim is to enhance students' problem-solving abilities using AI.
 
-**See also:**  [AI Mindtools Framework](https://github.com/devservice-ora/AI/blob/main/AI_Mindtools_Framework.md) | [AI Mindtools Adaptive Model Problem Solving](https://github.com/devservice-ora/AI/blob/main/AI_Mindtools_Adaptive_Model_Problem_Solving.md)
+**See also:**  [AI Mindtools Framework](https://github.com/devservice-ora/AI/blob/main/AI_Mindtools_Framework.md) | [AI Mindtools Adaptive Model Problem Solving](https://github.com/devservice-ora/AI/blob/main/AI_Mindtools_Adaptive_Model_Problem_Solving.md) | [Train of Thought Synthesis Learning Model](https://github.com/devservice-ora/AI/blob/main/Train_of_Thought%20Synthesis_Learning_Model.md)
 
 > **Note:** With AI's remarkable capabilities, I prompted assistance in mapping out concepts from my research to enhance students' cognitive problem-solving.  It just appeared miraculously, transforming the content in just a few minutes. ***This is truly amazing!***
 
