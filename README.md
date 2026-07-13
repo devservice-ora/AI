@@ -2,6 +2,8 @@
 
 This **[GitHub](https://github.com/devservice-ora)** project 2026 contains the professional portfolio and academic frameworks of **[Jim D. Pham](https://github.com/devservice-ora/AI/blob/main/My%20Professional%20Portfolio.md)**. It highlights the intersection between enterprise software engineering, autonomous systems, and learning environments enhanced by advanced AI technology.
 
+**A research question to consider is:** Can AI replace humans?
+
 ## 📂 Repository Structure
 
 * **AI Tools**: A categorized list of AI tools and guidelines to supercharge your workflow, creativity, and business. Perfect for sharing on blogs, GitHub, or social media!
@@ -11,7 +13,7 @@ This **[GitHub](https://github.com/devservice-ora)** project 2026 contains the p
 
 ## 📜 AI Tools
 
-The text highlights the importance of mastering fundamental concepts in Computer Science before using  AI tools like Claude, Copilot, GitHub, Gemini, or ChatGPT.. While AI increases student engagement, it raises questions about whether it leads to better learning outcomes in skills such as debugging and collaboration. 
+The text highlights the importance of mastering fundamental concepts in Computer Science before using  AI tools like Claude, Copilot, GitHub, Gemini, or ChatGPT. While AI increases student engagement, it raises questions about whether it leads to better learning outcomes in skills such as debugging and collaboration. 
 A good research question to consider is whether AI truly benefits student development or simply promotes dependency on automated code generation.
 
 * **[`Examples of prompts for AI`](https://github.com/devservice-ora/AI/blob/main/Common%20AI%20prompt%20examples.md)**: A new paradigm shift in thinking is to prompt the right questions.
