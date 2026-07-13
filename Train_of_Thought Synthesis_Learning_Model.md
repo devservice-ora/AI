@@ -10,7 +10,7 @@ Building upon the Educational Technology and "MindTools" from **[Jim D. Pham's](
 
 ## Background
 
-In my early days in college, I felt overwhelmed by the sheer volume of information across all my courses. It seemed impossible to remember and understand all the concepts. There were too many loose ends, and I struggled to connect everything together. For example, while learning a new programming language in my computer course, I placed the textbook next to my desk. Occasionally, I would glance at the key terms in hopes of remembering them. Eventually, these terms crystallized in my mind. This practice was effective, but it took years to master. This experience is how TOTS has shaped my understanding. This practice was effective, but it took years to master. This experience is how TOTS has shaped my understanding.
+In my early days in college, I felt overwhelmed by the sheer volume of information across all my courses. It seemed impossible to remember and understand all the concepts. There were too many loose ends, and I struggled to connect everything together. For example, while learning a new programming language in my computer course, I placed the textbook next to my desk. Occasionally, I would glance at the key terms in hopes of remembering them. Eventually, these terms crystallized in my mind. This practice was effective, but it took years to master. This experience is how TOTS has shaped my understanding. This practice was effective, but it took years to master. This experience is how TOTS has shaped my understanding. **To this day, I continue to practice TOTS.**
 
 ---
 
