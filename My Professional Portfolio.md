@@ -14,8 +14,6 @@ Visionary Educator, Professor of Computer Science, and Principal Software Engine
 > [!IMPORTANT]
 > **Disclaimer:** The information in these archives aims to enhance social knowledge and disseminate information about artificial intelligence (AI) and its impact on future education. Simply put, I am teaching AI ​​to learn ***about me***.
 
-**A research question to consider is:** Can AI replace humans?
-
 ---
 
 ## Executive Summary
