@@ -1,10 +1,10 @@
-# 🧠 AI Mindtools & Mapping Framework: Engineering & Cognitive Problem-Solving
+# 🧠 Mindtools & Mapping Framework: Engineering & Cognitive Problem-Solving
 
 This document presents an integrated framework that combines cognitive mapping strategies, semantic network architectures, and computer-based mind tools, while also modernizing these approaches through generative Artificial Intelligence (AI).
 
-The concept is based on the frameworks of [Concept Mapping, Semantic Networks, and Mindtools](https://github.com/devservice-ora/articles/blob/main/MindTools%20-%20Concept%20Maps%20and%20Semantic%20Networks.pdf) from **[Jim D. Pham's](https://github.com/devservice-ora/articles/tree/main#2-educational-technology--mindtools)** research. The aim is to enhance students' problem-solving abilities using AI.
+The concept is based on the frameworks of [Concept Mapping, Semantic Networks, and Mindtools](https://github.com/devservice-ora/articles/blob/main/MindTools%20-%20Concept%20Maps%20and%20Semantic%20Networks.pdf) from **[Jim D. Pham's](https://github.com/devservice-ora/articles/tree/main#2-educational-technology--mindtools)** research. The aim is to enhance students' problem-solving abilities in the age of AI.
 
-**See also:**  [AI Mindtools Framework](https://github.com/devservice-ora/AI/blob/main/AI_Mindtools_Framework.md) | [AI Mindtools Adaptive Model Problem Solving](https://github.com/devservice-ora/AI/blob/main/AI_Mindtools_Adaptive_Model_Problem_Solving.md) | [Train of Thought Synthesis Learning Model](https://github.com/devservice-ora/AI/blob/main/Train_of_Thought%20Synthesis_Learning_Model.md)
+**See also:**  [Mindtools Framework](https://github.com/devservice-ora/AI/blob/main/AI_Mindtools_Framework.md) | [Mindtools Adaptive Model Problem Solving](https://github.com/devservice-ora/AI/blob/main/AI_Mindtools_Adaptive_Model_Problem_Solving.md) | [Train of Thought Synthesis Learning Model](https://github.com/devservice-ora/AI/blob/main/Train_of_Thought%20Synthesis_Learning_Model.md)
 
 > **Note:** With AI's remarkable capabilities, I prompted assistance in mapping out concepts from my research to enhance students' cognitive problem-solving.  It just appeared miraculously, transforming the content in just a few minutes. ***This is truly amazing!***
 
