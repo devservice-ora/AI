@@ -2,7 +2,7 @@
 
 Building upon the technology-based **[MindTools](https://github.com/devservice-ora/articles/blob/main/MindTools.pdf)** modeling frameworks from **[Jim D. Pham's](https://github.com/devservice-ora/articles/blob/main/README.md#2-educational-technology--mindtools)** research, with the aim of improving students' problem-solving abilities.
 
-**See also:**  [AI Mindtools & Mapping Framework](https://github.com/devservice-ora/AI/blob/main/AI_Mindtools_and_Mapping_Framework.md) | [AI Mindtools Adaptive Model Problem Solving](https://github.com/devservice-ora/AI/blob/main/AI_Mindtools_Adaptive_Model_Problem_Solving.md)
+**See also:**  [AI Mindtools & Mapping Framework](https://github.com/devservice-ora/AI/blob/main/AI_Mindtools_and_Mapping_Framework.md) | [AI Mindtools Adaptive Model Problem Solving](https://github.com/devservice-ora/AI/blob/main/AI_Mindtools_Adaptive_Model_Problem_Solving.md) | [Train of Thought Synthesis Learning Model](https://github.com/devservice-ora/AI/blob/main/Train_of_Thought%20Synthesis_Learning_Model.md)
 
 > **Note:** With AI's remarkable capabilities, I prompted assistance in mapping out concepts from my research to enhance students' cognitive problem-solving. It just appeared miraculously, transforming the content in just a few minutes. This is truly amazing!
 
