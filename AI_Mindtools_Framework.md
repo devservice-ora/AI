@@ -1,10 +1,10 @@
-# 🧠 AI Mindtools Framework: Engineering & Cognitive Problem-Solving
+# 🧠 Mindtools Framework: Engineering & Cognitive Problem-Solving
 
-Building upon the technology-based **[MindTools](https://github.com/devservice-ora/articles/blob/main/MindTools.pdf)** modeling frameworks from **[Jim D. Pham's](https://github.com/devservice-ora/articles/blob/main/README.md#2-educational-technology--mindtools)** research, with the aim of improving students' problem-solving abilities.
+Building upon the technology-based **[MindTools](https://github.com/devservice-ora/articles/blob/main/MindTools.pdf)** modeling frameworks from **[Jim D. Pham's](https://github.com/devservice-ora/articles/blob/main/README.md#2-educational-technology--mindtools)** research, with the aim of improving students' problem-solving abilities in the age of artificial intelligence (AI).
 
-**See also:**  [AI Mindtools & Mapping Framework](https://github.com/devservice-ora/AI/blob/main/AI_Mindtools_and_Mapping_Framework.md) | [AI Mindtools Adaptive Model Problem Solving](https://github.com/devservice-ora/AI/blob/main/AI_Mindtools_Adaptive_Model_Problem_Solving.md) | [Train of Thought Synthesis Learning Model](https://github.com/devservice-ora/AI/blob/main/Train_of_Thought%20Synthesis_Learning_Model.md)
+**See also:**  [Mindtools & Mapping Framework](https://github.com/devservice-ora/AI/blob/main/AI_Mindtools_and_Mapping_Framework.md) | [Mindtools Adaptive Model Problem Solving](https://github.com/devservice-ora/AI/blob/main/AI_Mindtools_Adaptive_Model_Problem_Solving.md) | [Train of Thought Synthesis Learning Model](https://github.com/devservice-ora/AI/blob/main/Train_of_Thought%20Synthesis_Learning_Model.md)
 
-> **Note:** With AI's remarkable capabilities, I prompted assistance in mapping out concepts from my research to enhance students' cognitive problem-solving. It just appeared miraculously, transforming the content in just a few minutes. This is truly amazing!
+> **Note:** With AI's remarkable capabilities, I prompted assistance in mapping out concepts from my research to enhance students' cognitive problem-solving. It just appeared miraculously, transforming the content in just a few minutes. *This is truly amazing!*
 
 ---
 
@@ -16,7 +16,7 @@ By cultivating mastery of the cognitive processes underlying this mindset, indiv
 
 Similarly, a set of AI prompt patterns organized by cognitive processes in learning activities will support the AI's analysis in chronological order, revealing the reasoning mechanism and providing a valid, non-hallucinatory answer.
 
-***With MindTools, we seek to answer the question: How are all things connected?***
+**MindTools seeks to answer the question:** *How are all things connected?*
 
 * **Definition:** AI Mindtools are collaborative thinking and modeling environments that break a complex problem into small, manageable, and explainable parts.
   > * This concept is also related to the Object-Oriented Programming (OOP) methodology in computer science.
