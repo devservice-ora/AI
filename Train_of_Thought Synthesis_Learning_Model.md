@@ -2,7 +2,7 @@
 
 Building on Educational Technology and *MindTools* from **[Jim D. Pham's](https://github.com/devservice-ora/articles/blob/main/README.md#2-educational-technology--mindtools)** research, with the aim of improving students' problem-solving abilities in the age of artificial intelligence (AI).
 
-**See also:** [Mindtools Framework](https://github.com/devservice-ora/AI/blob/main/AI_Mindtools_Framework.md) | [Mindtools & Mapping Framework](https://github.com/devservice-ora/AI/blob/main/AI_Mindtools_and_Mapping_Framework.md) | [Mindtools Adaptive Model Problem Solving](https://github.com/devservice-ora/AI/blob/main/AI_Mindtools_Adaptive_Model_Problem_Solving.md)
+🔗 **Resource:** [MindTools Foundation for TOTS: Comprehensive Overview](https://github.com/devservice-ora/AI/blob/main/MindTools_Foundation_For_TOTS.md)
 
 > **Disclaimer:** This framework is built upon and extends the findings of the empirical study, *Effect of Educational Podcasts on Student Performance*, which demonstrates how repeated audio engagement outside the classroom transforms content into an invaluable study aid and drives conceptual crystallization. You can view the full foundational research paper [here](https://github.com/devservice-ora/articles/blob/main/Dissertation%20-%20A%20Case%20Study%20of%20the%20Classroom%20Podcast.pdf).
 
