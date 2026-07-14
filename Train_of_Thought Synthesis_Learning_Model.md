@@ -10,7 +10,7 @@ Building on Educational Technology and *MindTools* from **[Jim D. Pham's](https:
 
 ## Background
 
-During my early college years, I often felt overwhelmed by the sheer volume of course material. Retaining complex concepts proved difficult, particularly when learning new programming languages. To manage this, I developed a habit of keeping my textbooks close as a visual reference for key terminology. Over time, this constant reinforcement allowed me to internalize the material completely. While gradual, this process taught me the value of persistence and paved the way for the TOTS approach—a methodology I still rely on today.
+During my early college years, I often felt overwhelmed by the sheer volume of course material. Retaining difficult subject matter proved challenging, particularly when first tackling new programming languages and complex engineering concepts. To manage this, I developed a habit of keeping my textbooks close as a visual reference for key terminology. Over time, this constant reinforcement allowed me to internalize the material completely. While gradual, this process taught me the value of persistence and paved the way for the TOTS approach—a methodology I still rely on today.
 
 Building on this foundation, I later refined this concept during my doctoral research and have since adapted it to meet the unique demands of AI-driven learning.
 
