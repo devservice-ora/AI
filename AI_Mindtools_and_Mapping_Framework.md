@@ -1,8 +1,6 @@
 # 🧠 Mindtools & Mapping Framework: Engineering & Cognitive Problem-Solving
 
-This document presents an integrated framework that combines cognitive mapping strategies, semantic network architectures, and computer-based mind tools, while also modernizing these approaches through generative Artificial Intelligence (AI).
-
-The concept is based on the frameworks of [Concept Mapping, Semantic Networks, and Mindtools](https://github.com/devservice-ora/articles/blob/main/MindTools%20-%20Concept%20Maps%20and%20Semantic%20Networks.pdf) from **[Jim D. Pham's](https://github.com/devservice-ora/articles/tree/main#2-educational-technology--mindtools)** research. The aim is to enhance students' problem-solving abilities in the age of AI.
+Building upon the technology-based [Concept Mapping, Semantic Networks, and Mindtools](https://github.com/devservice-ora/articles/blob/main/MindTools%20-%20Concept%20Maps%20and%20Semantic%20Networks.pdf) modeling frameworks   from **[Jim D. Pham's](https://github.com/devservice-ora/articles/tree/main#2-educational-technology--mindtools)** research. The aim is to enhance students' problem-solving abilities in the age of AI.
 
 🔗 **Resource:** [MindTools Foundation for TOTS: Comprehensive Overview](https://github.com/devservice-ora/AI/blob/main/MindTools_Foundation_For_TOTS.md)
 
