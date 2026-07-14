@@ -2,7 +2,7 @@
 
 The **MindTools Foundation for Train of Thought Synthesis (TOTS)** is a comprehensive, four-part cognitive architecture designed to transform how learners process information, structure ideas, and solve complex problems. Rather than viewing thinking as a chaotic, unpredictable spark, this curriculum treats it as a skill that can be systematically mapped, scaled, and optimized.
 
-Building upon the technology-based *MindTools* modeling frameworks from **[Jim D. Pham's](https://github.com/devservice-ora/articles/blob/main/README.md#2-educational-technology--mindtools)** research, with the aim of improving students' problem-solving abilities.
+> Building upon the technology-based *MindTools* modeling frameworks from **[Jim D. Pham's](https://github.com/devservice-ora/articles/blob/main/README.md#2-educational-technology--mindtools)** research, with the aim of improving students' problem-solving abilities.
 
 ---
 
