@@ -1,10 +1,10 @@
 # 🧠 Train of Thought Synthesis (TOTS) Learning Model
 
-Building on Educational Technology and ***MindTools*** from **[Jim D. Pham's](https://github.com/devservice-ora/articles/blob/main/README.md#2-educational-technology--mindtools)** research, with the aim of improving students' problem-solving abilities in the age of artificial intelligence (AI).
+Building on Educational Technology and *MindTools* from **[Jim D. Pham's](https://github.com/devservice-ora/articles/blob/main/README.md#2-educational-technology--mindtools)** research, with the aim of improving students' problem-solving abilities in the age of artificial intelligence (AI).
 
 **See also:** [Mindtools Framework](https://github.com/devservice-ora/AI/blob/main/AI_Mindtools_Framework.md) | [Mindtools & Mapping Framework](https://github.com/devservice-ora/AI/blob/main/AI_Mindtools_and_Mapping_Framework.md) | [Mindtools Adaptive Model Problem Solving](https://github.com/devservice-ora/AI/blob/main/AI_Mindtools_Adaptive_Model_Problem_Solving.md)
 
-> **Disclaimer:** This framework is built upon and extends the findings of the empirical study, ***Effect of Educational Podcasts on Student Performance***, which demonstrates how repeated audio engagement outside the classroom transforms content into an invaluable study aid and drives conceptual crystallization. You can view the full foundational research paper [here](https://github.com/devservice-ora/articles/blob/main/Dissertation%20-%20A%20Case%20Study%20of%20the%20Classroom%20Podcast.pdf).
+> **Disclaimer:** This framework is built upon and extends the findings of the empirical study, *Effect of Educational Podcasts on Student Performance*, which demonstrates how repeated audio engagement outside the classroom transforms content into an invaluable study aid and drives conceptual crystallization. You can view the full foundational research paper [here](https://github.com/devservice-ora/articles/blob/main/Dissertation%20-%20A%20Case%20Study%20of%20the%20Classroom%20Podcast.pdf).
 
 ---
 
@@ -14,7 +14,7 @@ In my early days in college, I felt overwhelmed by the sheer volume of informati
 
 ---
 
-**I prompted AI:** `How quickly do people forget things they see for the first time?`
+**I prompted AI:** *How quickly do people forget things they see for the first time?*
 
 Cognitive theorists describe the retention and forgetting of visual information through a structured timeline comprising three phases, each with distinct durations:
 
@@ -68,9 +68,9 @@ Imagine a student who is deeply **engaged in a learning activity**, such as stud
 ## The Graphical Diagram
 
 ```text
-TRADITIONAL "RECORD & LISTEN" PATHWAY (Passive Review / Auditory Repetition)
+TRADITIONAL "NOTETAKING" OR "RECORD & LISTEN" PATHWAY (Passive Review / Auditory Repetition)
 [Engage in Learning] ──► [Record / Song / Feed] ──► [Passive Repository] ──► [Repeated Replay] ──► [Crystallize Ideas]
-                                                                                  (Time Delay)         (Lyrics / Context)
+                                                                               (Time Delay)         (Lyrics / Context)
 
 ────────────────────────────────────────────────────────────────────────────────────────────────────────────────────
 
@@ -88,8 +88,8 @@ NEW CONVERSATIONAL "TRAIN OF THOUGHT" PATHWAY (TOTS Model - A Natural Thinking P
                                           │
             ┌─────────────────────────────┴─────────────────────────────┐
             ▼                                                           ▼
-   [Phase 1: Memory Transfer]                                  [Phase 2: Knowledge Creation]
-   1. Capture Stream via IoT (Repetition)                       6. Pattern Recognition (Analyze)
+   [Phase 1: Memory Transfer]                                 [Phase 2: Knowledge Creation]
+   1. Capture Stream via IoT (Repetition)                      6. Pattern Recognition (Analyze)
    2. AI Gathering & Chunking (Organize)                       7. AI Lateral Merging (Synthesize)
    3. Relational Webbing (Connect)                             8. Operational Testing (Apply)
    4. Algorithmic Tagging (Mnemonics)                          9. Portfolio Integration (Continuous Build)
@@ -99,11 +99,11 @@ NEW CONVERSATIONAL "TRAIN OF THOUGHT" PATHWAY (TOTS Model - A Natural Thinking P
             └─────────────────────────────┬─────────────────────────────┘
                                           ▼
                               [Dynamic Knowledge Graph]
-                        (Hierarchical • Associative • Corrective)
+                      (Hierarchical • Associative • Corrective)
                                           │
                                           ▼
                              [DYNAMIC LEARNING PORTFOLIO]
-                        (Evolving Repository of Mastery)
+                           (Evolving Repository of Mastery)
 ```
 
 ---
