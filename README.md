@@ -16,11 +16,13 @@ This **[GitHub](https://github.com/devservice-ora)** project 2026 contains the p
 The text highlights the importance of mastering fundamental concepts in Computer Science before using  AI tools like Claude, Copilot, GitHub, Gemini, or ChatGPT. While AI increases student engagement, it raises questions about whether it leads to better learning outcomes in skills such as debugging and collaboration. 
 A good research question to consider is whether AI truly benefits student development or simply promotes dependency on automated code generation.
 
-* **[`Train of Thought Learning Model`](https://github.com/devservice-ora/AI/blob/main/Train_of_Thought%20Synthesis_Learning_Model.md)**: The Train of Thought Synthesis (TOTS) Learning Model in problem-solving ability.
-* **[`AI Tool Evaluation Framework`](https://github.com/devservice-ora/AI/blob/main/AI%20Tool%20Evaluation%20Framework.md)**: AI Tool Evaluation Framework & Comparative Methodology.
-* **[`AI Acceptable Use Guidelines`](https://github.com/devservice-ora/AI/blob/main/AI%20Acceptable%20Use%20Guidelines%20for%20CS%20Students.md)**: Official academic syllabus guidelines outlining boundaries for generative AI tool deployment in computer science and programming courses.
-* **[`Examples of prompts for AI`](https://github.com/devservice-ora/AI/blob/main/Common%20AI%20prompt%20examples.md)**: A new paradigm shift in thinking is to prompt the right questions.
-* **[`The Ultimate Free AI Tools Directory`](https://github.com/devservice-ora/AI/blob/main/The%20Ultimate%20Free%20AI%20Tools%20Directory.md)**: List of free AI tools.
+* **[Train of Thought Learning Model](https://github.com/devservice-ora/AI/blob/main/Train_of_Thought%20Synthesis_Learning_Model.md)**: The Train of Thought Synthesis (TOTS) Learning Model in problem-solving ability.
+* **[AI Tool Evaluation Framework](https://github.com/devservice-ora/AI/blob/main/AI%20Tool%20Evaluation%20Framework.md)**: AI Tool Evaluation Framework & Comparative Methodology.
+* **[AI Acceptable Use Guidelines](https://github.com/devservice-ora/AI/blob/main/AI%20Acceptable%20Use%20Guidelines%20for%20CS%20Students.md)**: Official academic syllabus guidelines outlining boundaries for generative AI tool deployment in computer science and programming courses.
+* **[Examples of prompts for AI](https://github.com/devservice-ora/AI/blob/main/Common%20AI%20prompt%20examples.md)**: A new paradigm shift in thinking is to prompt the right questions.
+* **[The Ultimate Free AI Tools Directory](https://github.com/devservice-ora/AI/blob/main/The%20Ultimate%20Free%20AI%20Tools%20Directory.md)**: List of free AI tools.
+* **[Top 10 AI Applications in Education](https://github.com/devservice-ora/AI/blob/main/Top%2010%20AI%20Applications%20in%20Education.md)**: Comprehensive Guide: Top 10 AI Applications in Education.
+* **[AI prompts for Computer Science (CS) students](https://github.com/devservice-ora/AI/blob/main/Common%20AI%20prompt%20examples.md)**: Examples of practical prompts for Computer Science (CS) students
 
 ## 📜 Inventory of Credentials & Portfolios by Category
 The following formal certificates, credentials, and structural archive items are officially accounted for within this portfolio environment:
