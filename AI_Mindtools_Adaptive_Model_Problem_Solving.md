@@ -2,7 +2,7 @@
 
 Building upon the technology-based **[MindTools](https://github.com/devservice-ora/articles/blob/main/MindTools.pdf)** modeling frameworks from **[Jim D. Pham's](https://github.com/devservice-ora/articles/blob/main/README.md#2-educational-technology--mindtools)** research, with the aim of improving students' problem-solving abilities.
 
-🔗 **Resource:** [MindTools Foundation for TOTS: Comprehensive Overview](https://github.com/devservice-ora/AI/blob/main/MindTools_Foundation_For_TOTS.md)
+🔗 [MindTools Foundation for TOTS: Comprehensive Overview](https://github.com/devservice-ora/AI/blob/main/MindTools_Foundation_For_TOTS.md)
 
 > **Disclaimer:** The information in these archives aims to enhance social knowledge and disseminate information about artificial intelligence (AI) and its impact on future education.
 
