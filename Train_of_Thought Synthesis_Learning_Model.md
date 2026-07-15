@@ -69,6 +69,8 @@ Imagine a student who is deeply **engaged in a learning activity**, such as stud
 
 ## The Graphical Diagram
 
+This diagram illustrates the concept of *train of thought pathway*  and the mechanism of instinctive information organization, illustrating the natural methodologies through which individuals disseminate and retain information within their cognitive repositories. It serves as a visual representation of the processes involved in the systematic mapping of information, reflecting the inherent ways knowledge is preserved and structured within one's collective information repository for later retrieval and sharing (e.g., *GitHub*).
+
 ```text
 TRADITIONAL "NOTETAKING" OR "RECORD & LISTEN" PATHWAY (Passive Review / Auditory Repetition)
 [Engage in Learning] ──► [Record / Song / Feed] ──► [Passive Repository] ──► [Repeated Replay] ──► [Crystallize Ideas]
