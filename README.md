@@ -22,7 +22,6 @@ A good research question to consider is whether AI truly benefits student develo
 * **[Examples of prompts for AI](https://github.com/devservice-ora/AI/blob/main/Common%20AI%20prompt%20examples.md)**: A new paradigm shift in thinking is to prompt the right questions.
 * **[The Ultimate Free AI Tools Directory](https://github.com/devservice-ora/AI/blob/main/The%20Ultimate%20Free%20AI%20Tools%20Directory.md)**: List of free AI tools.
 * **[Top 10 AI Applications in Education](https://github.com/devservice-ora/AI/blob/main/Top%2010%20AI%20Applications%20in%20Education.md)**: Comprehensive Guide: Top 10 AI Applications in Education.
-* **[AI prompts for Computer Science (CS) students](https://github.com/devservice-ora/AI/blob/main/Common%20AI%20prompt%20examples.md)**: Examples of practical prompts for Computer Science (CS) students
 
 ## 📜 Inventory of Credentials & Portfolios by Category
 The following formal certificates, credentials, and structural archive items are officially accounted for within this portfolio environment:
