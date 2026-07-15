@@ -2,7 +2,7 @@
 
 Building upon the technology-based [Concept Mapping, Semantic Networks, and Mindtools](https://github.com/devservice-ora/articles/blob/main/MindTools%20-%20Concept%20Maps%20and%20Semantic%20Networks.pdf) modeling frameworks   from **[Jim D. Pham's](https://github.com/devservice-ora/articles/tree/main#2-educational-technology--mindtools)** research. The aim is to enhance students' problem-solving abilities in the age of AI.
 
-🔗 **Resource:** [MindTools Foundation for TOTS: Comprehensive Overview](https://github.com/devservice-ora/AI/blob/main/MindTools_Foundation_For_TOTS.md)
+🔗 [MindTools Foundation for TOTS: Comprehensive Overview](https://github.com/devservice-ora/AI/blob/main/MindTools_Foundation_For_TOTS.md)
 
 > **Note:** With AI's remarkable capabilities, I prompted assistance in mapping out concepts from my research to enhance students' cognitive problem-solving.  It just appeared miraculously, transforming the content in just a few minutes. *This is truly amazing!*
 
