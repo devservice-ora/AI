@@ -1,4 +1,4 @@
-# MindTools Foundation for TOTS: Comprehensive Overview
+# 🧠 MindTools Foundation for TOTS: Comprehensive Overview
 
 The **MindTools Foundation for Train of Thought Synthesis (TOTS)** is a comprehensive, four-part cognitive architecture designed to transform how learners process information, structure ideas, and solve complex problems. Rather than viewing thinking as a chaotic, unpredictable spark, this curriculum treats it as a skill that can be systematically mapped, scaled, and optimized.
 
