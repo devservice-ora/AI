@@ -114,7 +114,7 @@ NEW CONVERSATIONAL "TRAIN OF THOUGHT" PATHWAY (TOTS Model - A Natural Thinking P
 
 ---
 
-### ℹ️ Beyond 'Record and Listen': Engineering the Train of Thought Synthesis (TOTS) Model
+**⚠️ Disclaimer:** Beyond 'Record and Listen': Engineering the Train of Thought Synthesis (TOTS) Learning Model
    <footer>
         <p class="meta">
             <strong>Author:</strong> Jim D. Pham <br>
