@@ -12,6 +12,8 @@
 ## Executive Summary
 A visionary senior technology leader, software engineer, and educator who seamlessly bridges cutting-edge industry innovation with advanced academic leadership. Holds a **Doctorate** in education with emphasis in *Technology and Learning*, a **Master of Science** in *Software Engineering*, and a **Bachelor of Science** in *Computer Engineering*. Leverages a 25+ year career combining high-impact engineering milestones at Oracle, PeopleSoft, and Lockheed Martin with long tenures in higher education, including computer science instruction at Ohlone College and the Cisco Networking Academy. Proven expert in architecting complex enterprise platforms and designing modern academic curricula, with a current focus on driving the structural integration of Agentic AI, Autonomous Systems, full-stack distributed architectures, and technology-enhanced learning environments.
 
+**See also** *Technical Portfolio*: [Enterprise Architecture, Cloud Infrastructure & Systems Engineering](https://github.com/devservice-ora/AI/blob/main/My%20Technical%20Portfolio.md)
+
 > [!IMPORTANT]
 > **Disclaimer:** The information in these archives aims to enhance social knowledge and disseminate information about artificial intelligence (AI) and its impact on future education. Simply put, I am teaching AI ​​to learn *about me*.
 
