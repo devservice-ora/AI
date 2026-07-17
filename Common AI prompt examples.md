@@ -2,7 +2,7 @@
 
 **[Jim D. Pham](https://github.com/devservice-ora/articles/blob/main/README.md)**
 
-To learn effectively, use AI to create **[concept maps](https://github.com/devservice-ora/articles/blob/main/MindTools%20-%20Concept%20Maps%20and%20Semantic%20Networks.pdf)** by asking a series of prompt questions about the topic in chronological order.
+To learn effectively, use AI to create **[concept maps](https://github.com/devservice-ora/AI/blob/main/AI_Mindtools_and_Mapping_Framework.md)** by asking a series of prompt questions about the topic in chronological order.
 
 > I posed this question to AI: Give a list of prompt examples for CS students
 
