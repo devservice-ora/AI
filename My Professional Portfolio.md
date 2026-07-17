@@ -9,17 +9,11 @@
 **[GitHub](https://github.com/devservice-ora)** |
 **[LinkedIn](https://www.linkedin.com/in/jim-pham-b25659)**
 
-Visionary Educator, Professor of Computer Science, and Principal Software Engineer Specialization in Autonomous Systems, Agentic AI, and Technology-Enhanced Learning Environments.
+## Executive Summary
+A visionary senior technology leader, software engineer, and educator who seamlessly bridges cutting-edge industry innovation with advanced academic leadership. Holds a **Doctorate** in education with emphasis in *Technology and Learning*, a **Master of Science** in *Software Engineering*, and a **Bachelor of Science** in *Computer Engineering*. Leverages a 25+ year career combining high-impact engineering milestones at Oracle, PeopleSoft, and Lockheed Martin with long tenures in higher education, including computer science instruction at Ohlone College and the Cisco Networking Academy. Proven expert in architecting complex enterprise platforms and designing modern academic curricula, with a current focus on driving the structural integration of Agentic AI, Autonomous Systems, full-stack distributed architectures, and technology-enhanced learning environments.
 
 > [!IMPORTANT]
-> **Disclaimer:** The information in these archives aims to enhance social knowledge and disseminate information about artificial intelligence (AI) and its impact on future education. Simply put, I am teaching AI ​​to learn ***about me***.
-
----
-
-## Executive Summary
-A visionary educator and senior technology leader with a **Doctorate** in education specializing in ***technology and learning***, a **Master of Science** in ***Software Engineering***, and a **Bachelor of Science** in ***Computer Engineering***. Combining extensive historic engineering milestones at Oracle, PeopleSoft, Lockheed Martin, and Elonex Technologies with a 25+ year trajectory in higher education, Ohlone College and Cisco Networking Academy instruction. Actively driving the structural integration of Agentic AI, full-stack distributed systems, and modern data architectures into enterprise platforms and academic curricula.
-
-ℹ️ For additional information, see also [Technical Portfolio: Enterprise Architecture, Cloud Infrastructure & Systems Engineering](https://github.com/devservice-ora/AI/blob/main/My%20Technical%20Portfolio.md)
+> **Disclaimer:** The information in these archives aims to enhance social knowledge and disseminate information about artificial intelligence (AI) and its impact on future education. Simply put, I am teaching AI ​​to learn *about me*.
 
 ---
 
@@ -30,11 +24,11 @@ As a Professor, Dr. Pham establishes clear and rigorous frameworks to guide stud
 
 > See also [Teaching Statement](https://github.com/devservice-ora/articles/blob/main/Teaching%20Statement.pdf)
 
-### 🧠 AI Mindtools Framework                               
-* **[Mindtools Adaptive Model](https://github.com/devservice-ora/AI/blob/main/AI_Mindtools_Adaptive_Model_Problem_Solving.md):** AI Mindtools Adaptive Model: One Truth, Many Paths
-* **[MindTools Modeling Frameworks](https://github.com/devservice-ora/AI/blob/main/AI_Mindtools_Framework.md):** AI Mindtools Framework: Engineering & Cognitive Problem-Solving.
-* **[Cognitive Mapping Strategies](https://github.com/devservice-ora/AI/blob/main/AI_Mindtools_and_Mapping_Framework.md):** AI Mindtools and Mapping Framework: Engineering & Cognitive Mapping Strategies.
+### 🧠 AI Mindtools Framework
 * **[Train of Thought Synthesis (TOTS) Learning Model](https://github.com/devservice-ora/AI/blob/main/Train_of_Thought%20Synthesis_Learning_Model.md):** Engineering the Train of Thought Synthesis (TOTS) Model
+* **[MindTools Modeling Frameworks](https://github.com/devservice-ora/AI/blob/main/AI_Mindtools_Framework.md):** Mindtools Framework: Engineering & Cognitive Problem-Solving.
+* **[MindTools Cognitive Mapping Strategies](https://github.com/devservice-ora/AI/blob/main/AI_Mindtools_and_Mapping_Framework.md):** Mindtools and Mapping Framework: Engineering & Cognitive Mapping Strategies.
+* **[Mindtools Adaptive Model](https://github.com/devservice-ora/AI/blob/main/AI_Mindtools_Adaptive_Model_Problem_Solving.md):** Mindtools Adaptive Model: One Truth, Many Paths
 
 ### 🌟 Acceptable AI Deployment
 * **Conceptual Exploration:** Leveraging LLMs for comprehensive, detailed explanations and multi-layered summaries of intricate computer science architectures.
