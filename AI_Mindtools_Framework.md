@@ -28,6 +28,8 @@ Similarly, a set of AI prompt patterns organized by cognitive processes in learn
 
 ## 2. Resolving Cognitive Conflict & Driving Meaningful Learning
 
+This diagram illustrates how an AI acts as a learning partner that helps users think differently about the real-life experience of their surroundings, rather than just feeding them information. By using a person's own memories and experiences, the system gently challenges what they know to help them build new knowledge and a deeper understanding of complex concepts.
+
 ```
            [Real-World Experiences & Memorization]
                               │
