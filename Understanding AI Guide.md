@@ -1,6 +1,6 @@
 # Understanding AI: Beyond the Buzzwords (2026)
 
-**[Jim D. Pham](https://github.com/devservice-ora/articles/blob/main/README.md)**
+**[Jim D. Pham](https://github.com/devservice-ora/AI/blob/main/My%20Professional%20Portfolio.md)**
 
 A new paradigm shift in thinking involves asking the right questions. A new approach to computer programming is to tell artificial intelligence (AI) to write a program using your [Train of Thought](https://github.com/devservice-ora/AI/blob/main/Train_of_Thought%20Synthesis_Learning_Model.md). *This is a new future currently unfolding on the horizon*.
 
