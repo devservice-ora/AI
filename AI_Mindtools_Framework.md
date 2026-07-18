@@ -10,11 +10,11 @@ Building upon the technology-based **[MindTools](https://github.com/devservice-o
 
 ## 1. Central Concept: The Role of AI Mindtools
 
-This concept is based on the idea that everything is interconnected and is fundamentally grounded in the principles of constructivist theory. In a perfectly unified system, no element exists in isolation. To understand the relationships between different elements and their surrounding objects, and to gain new knowledge through prior experience and connections, we use the MindTools technique to map these relationships from the smallest ideas to the broader context. Ultimately, the solution is never external—it is already contained within the system's context.
+This concept is based on the idea that everything is interconnected and is fundamentally grounded in the principles of constructivist theory. In a perfectly unified system, no element exists in isolation.To understand the relationships between different elements and their surrounding objects, and to gain new knowledge from prior experiences and the connections between these elements, we use the MindTools techniques to map these relationships from the smallest ideas to the broader context.  In this systematic system, the solution lies within the context of the system.
 
 By cultivating mastery of the cognitive processes underlying this mindset, individuals can interpret a wide range of situations and apply them to problem-solving, tackling each problem individually.
 
-Similarly, a set of AI prompt patterns organized by cognitive processes in learning activities will support the AI's analysis in chronological order, revealing the reasoning mechanism and providing a valid, non-hallucinatory answer.
+Similarly, a set of AI prompt patterns organized by cognitive processes in learning activities will support the AI's analysis in chronological order, thereby clarifying the reasoning mechanism and providing authentic, non-hallucinatory answers by shaping thought structures.
 
 **MindTools seeks to answer the question:** *How are all things connected?*
 
@@ -28,7 +28,7 @@ Similarly, a set of AI prompt patterns organized by cognitive processes in learn
 
 ## 2. Resolving Cognitive Conflict & Driving Meaningful Learning
 
-This diagram illustrates how an AI acts as a learning partner that helps users think differently about the real-life experience of their surroundings, rather than just feeding them information. By using a person's own memories and experiences, the system gently challenges what they know to help them build new knowledge and a deeper understanding of complex concepts.
+This diagram demonstrates how an AI functions as a learning partner. Instead of merely supplying information, it offers contextual background that connects to students' experiences and environments related to the problem at hand. By drawing on students' own memories and experiences, the AI challenges their existing knowledge and helps them construct new understanding. This method effectively breaks down complex problems into visually intuitive and manageable tasks, simplifying the problem-solving process.
 
 ```
            [Real-World Experiences & Memorization]
