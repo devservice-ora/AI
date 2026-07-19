@@ -21,6 +21,8 @@ Generative AI tools should function as a personalized partner in learning, focus
     *   Employing AI capabilities during exams, locked assessments, or quizzes.
 *   **Core Principle:** Students must possess the ability to articulate the underlying mechanics of every line of submitted code.
 
+**See also** [AI Acceptable Use Guidelines](https://github.com/devservice-ora/AI/blob/main/AI%20Acceptable%20Use%20Guidelines%20for%20CS%20Students.md)
+
 ---
 
 ## 📋 2. AI Programming Assignment Checklist
