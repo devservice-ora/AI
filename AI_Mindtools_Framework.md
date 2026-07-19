@@ -75,3 +75,15 @@ This diagram demonstrates how an AI functions as a learning partner. Instead of 
 ## 4. Everyday Technical Ubiquity
 * **Universal Accessibility:** AI Mindtools are not restricted exclusively to advanced software or systems engineers; they are designed for anyone using computers to assist with daily problem-solving.
 * **Interconnected Ecosystem:** AI integrates seamlessly into the baseline, technology-based modeling infrastructure that modern society depends on heavily every day—including internet search, communication protocols, email, and mobile data platforms.
+
+---
+
+**ℹ️ Note:** Beyond 'Record and Listen': Engineering the Train of Thought Synthesis (TOTS) Learning Model
+   <footer>
+        <p class="meta">
+            <strong>Author:</strong> Jim D. Pham <br>
+            <strong>Date:</strong> July 12, 2026 <br>
+            <strong>Category:</strong> Learning Theory <br>
+            <strong>Tags:</strong> Pedagogy, Educational Technology, AI, Constructivism, Pragmatism
+        </p>
+    </footer>
