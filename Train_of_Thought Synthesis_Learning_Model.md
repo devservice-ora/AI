@@ -14,6 +14,8 @@ During my early college years, I often felt overwhelmed by the sheer volume of c
 
 Building on this foundation, I refined the concept during my doctoral research on mobile devices as tools for engineering thinking, adapting it to handle large volumes of information and AI-driven learning.
 
+Building on this foundation, I refined the concept during my doctoral research on mobile devices as tools for engineering thinking, adapting it to handle large volumes of information, tailor experiences to individual [learning styles](https://github.com/devservice-ora/presentations/blob/main/Theories%20of%20Adult%20Learning%20-2005.pdf "Theories of Adult Learning"), and support AI-driven learning.
+
 ---
 
 **I prompted AI:** *How quickly do people forget things they see for the first time?*
