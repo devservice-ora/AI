@@ -65,3 +65,15 @@ This curriculum is structured as a developmental pathway, systematically advanci
 * **Phase 1 (Foundational):** Focuses on basic cognitive discipline—learning to construct linear logic chains and monitor internal thought propagation.
 * **Phases 2 & 3 (Intermediate):** Shifts to structural organization and spatial reasoning—filtering informational noise, managing cognitive load, and visually mapping complex conceptual ecosystems.
 * **Phase 4 (Advanced):** Demands adaptive, high-pressure execution—diagnosing systemic root causes and dynamically pivoting strategies under changing real-world conditions.
+
+---
+
+**ℹ️ Note:** Beyond 'Record and Listen': Engineering the Train of Thought Synthesis (TOTS) Learning Model
+   <footer>
+        <p class="meta">
+            <strong>Author:</strong> Jim D. Pham <br>
+            <strong>Date:</strong> July 12, 2026 <br>
+            <strong>Category:</strong> Learning Theory <br>
+            <strong>Tags:</strong> Pedagogy, Educational Technology, AI, Constructivism, Pragmatism
+        </p>
+    </footer>
