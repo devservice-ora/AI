@@ -44,6 +44,8 @@ When navigating complex algorithmic blockages, employ this structured, systemati
 3.  **Evaluate & Backtrack:** Trace sample data points through each path. Explicitly backtrack to previous decision nodes when design criteria or execution boundaries are violated.
 4.  **Synthesize:** Translate verified logical thought blocks directly into functional, robust source code.
 
+**ℹ️ For more details**, visit the [MindTools Foundation for TOTS: Comprehensive Overview](https://github.com/devservice-ora/AI/blob/main/MindTools_Foundation_For_TOTS.md)
+
 ---
 
 ## 💻 4. Core Development Environments (IDEs)
