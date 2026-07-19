@@ -141,3 +141,15 @@ When a student processes this reasoning question with an AI Mindtool, the cognit
 * **Interactions (Dynamic Feedback):** Rather than staring at a confusing, static diagram with too many external lines, the student works with the AI to map the dynamic feedback loop. The student learns to sequence the logic: if the database query duration exceeds a defined threshold, an exceptional handling loop safely intercepts the process, clears authentication credentials from short-term memory, and returns a user-friendly timeout message back to the internet browser.
 
 Through this guided mapping process, the abstract problem transforms into clear, explainable, and structured conceptual knowledge.
+
+---
+
+**ℹ️ Note:** Beyond 'Record and Listen': Engineering the Train of Thought Synthesis (TOTS) Learning Model
+   <footer>
+        <p class="meta">
+            <strong>Author:</strong> Jim D. Pham <br>
+            <strong>Date:</strong> July 12, 2026 <br>
+            <strong>Category:</strong> Learning Theory <br>
+            <strong>Tags:</strong> Pedagogy, Educational Technology, AI, Constructivism, Pragmatism
+        </p>
+    </footer>
