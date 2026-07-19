@@ -2,8 +2,6 @@
 
 **Instructor: [Jim D. Pham](https://github.com/devservice-ora/AI/blob/main/My%20Professional%20Portfolio.md)**
 
-# 🚀 Course Success Cheat Sheet & Guidelines
-
 A comprehensive guide balancing academic integrity, systemic problem-solving, development environments, and browser-based tools for modern computer science coursework.
 
 ---
