@@ -43,17 +43,18 @@ This diagram illustrates the concept of multiple pathways leading to a single an
 
 ## 1. The Core Idea: Traveling from A to B
 
-Think of finding the truth within the Mindtools Model like **traveling from a starting point to a destination—for example, from San Francisco (Point A) to New York City (Point B).**
+Think of finding the truth within the Mindtools Model like **traveling from a starting point to a destination—for example, from San Jose (Point A) to New York City (Point B).**
 
 * **The Destination (New York City):** This is the **Universal Truth**. It doesn't move, and it doesn't change just because of how you choose to travel.
 * **The Ways to Get There:** These are the **Multiple Paths** provided by different Mindtools. One student might use a visual concept-mapping tool, another might run a physics simulator, and a third might write a database script. 
 * **The Map:** The reason every tool works is that the terrain is **interconnected**. Because reality is a unified web, every valid analytical route is structurally linked to the same final destination. 
 
 ```
-   [Path 1: Driving] ---------------\
-   [Path 2: Flying] -------------------> [ POINT B: NEW YORK CITY ]
-   [Path 3: Train Travel] ----------->   (The One True Destination)
-   [Path 4: Walking] ---------------/
+   [Path 1: Driving] -----------
+   [Path 2: Flying] ------------
+       (POINT A: SAN JOSE)   ===>>   [POINT B: NEW YORK CITY ]  (The One True Destination)
+   [Path 3: Train Travel] ------ 
+   [Path 4: Walking] -----------
 ```
 
 > ### 📝 Step-by-Step Example: Finding a Missing Variable
