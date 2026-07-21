@@ -12,8 +12,6 @@ Building on Educational Technology and *MindTools* from **[Jim D. Pham's](https:
 
 During my early college years, I often felt overwhelmed by the sheer volume of course material. Retaining difficult subject matter proved challenging, particularly when first tackling new programming languages and complex engineering concepts. To manage this, I developed a habit of keeping my textbooks close as a visual reference for key terminology. Over time, this constant reinforcement allowed me to internalize the material completely. While gradual, this process taught me the value of persistence and paved the way for the **Train of Thought Synthesis (TOTS) Learning Model**—a methodology I still rely on today.
 
-Building on this foundation, I refined the concept during my doctoral research on mobile devices as tools for engineering thinking, adapting it to handle large volumes of information and AI-driven learning.
-
 Building on this foundation, I refined the concept during my doctoral research on mobile devices as tools for engineering thinking, adapting it to handle large volumes of information, tailor experiences to individual [learning styles](https://github.com/devservice-ora/presentations/blob/main/Theories%20of%20Adult%20Learning%20-2005.pdf "Theories of Adult Learning"), and support AI-driven learning.
 
 ---
