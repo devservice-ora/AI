@@ -22,7 +22,7 @@ A visionary senior technology leader, software engineer, and educator who seamle
 ## AI Pedagogical Framework & Guidelines
 In addition to his career as a professional engineer, **[Jim D. Pham](https://github.com/devservice-ora/articles/blob/main/README.md)** is also a professor, a pioneer and leader in the use of online and mobile learning platforms, and a researcher focused on developing technology-assisted learning models in education.
 
-As a Professor, Dr. Pham establishes clear and rigorous frameworks to guide students in ethically and effectively applying generative Artificial Intelligence tools (such as Gemini, ChatGPT, Claude, and Copilot) in computer science courses.
+As a Professor, Dr. Pham establishes clear and rigorous frameworks to [guide](https://github.com/devservice-ora/AI/blob/main/AI%20Acceptable%20Use%20Policy%3A%20Fundamentals%20First.md "AI Acceptable Use") students in ethically and effectively applying generative Artificial Intelligence tools (such as Gemini, ChatGPT, Claude, and Copilot) in computer science courses.
 
 > See also [Teaching Statement](https://github.com/devservice-ora/articles/blob/main/Teaching%20Statement.pdf)
 
