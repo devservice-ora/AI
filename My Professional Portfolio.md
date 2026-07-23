@@ -12,6 +12,8 @@
 ## Executive Summary
 A visionary senior technology leader, software engineer, and educator who seamlessly bridges cutting-edge industry innovation with advanced academic leadership. Holds a **Doctorate** in education with emphasis in *Technology and Learning*, a **Master of Science** in *Software Engineering*, and a **Bachelor of Science** in *Computer Engineering*. Leverages a 25+ year career combining high-impact engineering milestones at Oracle, PeopleSoft, and Lockheed Martin with long tenures in higher education, including computer science instruction at Ohlone College and the Cisco Networking Academy. Proven expert in architecting complex enterprise platforms and designing modern academic curricula, with a current focus on driving the structural integration of Agentic AI, Autonomous Systems, full-stack distributed architectures, and technology-enhanced learning environments.
 
+In my [doctoral dissertation](https://github.com/devservice-ora/articles/blob/main/Dissertation%20-%20A%20Case%20Study%20of%20the%20Classroom%20Podcast.pdf) (2010), I articulated the notion that "the vision of the future in technology will likely involve centralized knowledge-based systems that connect various knowledge databases" (p. 47). This concept of **centralized, knowledge-based systems**, which are now hosted in contemporary data centers, pertains to artificial intelligence (AI). My earlier prediction has indeed materialized, underscoring the transformative impact of AI on our access to and utilization of information.
+
 ℹ️ See also **Technical Portfolio**: [Enterprise Architecture, Cloud Infrastructure & Systems Engineering](https://github.com/devservice-ora/AI/blob/main/My%20Technical%20Portfolio.md)
 
 > [!IMPORTANT]
