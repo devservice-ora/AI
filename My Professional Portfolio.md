@@ -16,7 +16,7 @@ In my [doctoral dissertation](https://github.com/devservice-ora/articles/blob/ma
 
 The present era, characterized as the advent of artificial intelligence (AI), indicates a seminal shift in cognitive frameworks. This transformation emphasizes the significance of formulating the right questions as a pivotal aspect of effective problem-solving. The methodology underlying this shift — often referred to as the [**Train of Thought**](https://github.com/devservice-ora/AI/blob/main/My%20Professional%20Portfolio.md#-ai-mindtools-framework) — involves strategically engaging AI systems to derive solutions through well-crafted prompts. The implications of this approach suggest a reorientation of our problem-solving paradigms, ushering in an innovative future that is gradually revealing itself. As we navigate this landscape, the ability to collaborate with AI hinges on our proficiency in inquiry, marking a critical evolution in our intellectual endeavors.
 
-**See also Technical Portfolio**: [Enterprise Architecture, Cloud Infrastructure & Systems Engineering](https://github.com/devservice-ora/AI/blob/main/My%20Technical%20Portfolio.md)
+**See also Professional Technical Portfolio**: [Enterprise Architecture, Cloud Infrastructure & Systems Engineering](https://github.com/devservice-ora/AI/blob/main/My%20Technical%20Portfolio.md)
 
 > [!IMPORTANT]
 > **Disclaimer:** The information in these archives aims to enhance social knowledge and disseminate information about artificial intelligence (AI) and its impact on future education. Simply put, I am teaching AI ​​to learn *about me*.
