@@ -3,7 +3,8 @@
  **[Jim D. Pham](https://github.com/devservice-ora/AI/blob/main/My%20Professional%20Portfolio.md)**
 
 ## 📝 Executive Summary
-This portfolio outlines an extensive technical trajectory across cloud-native infrastructure, DevSecOps pipelines, automated data migration tools, and embedded hardware design. Key accomplishments include architecting enterprise framework components for Oracle and PeopleSoft, spearheading aerospace controls engineering for NASA Ames nanosatellites, and modernizing legacy application frameworks across various commercial sectors.
+
+This portfolio highlights over 25 years of extensive professional experience in cloud-native infrastructure, DevSecOps pipelines, automated data migration tools, and embedded hardware design. Notable achievements include designing enterprise framework components for prominent organizations such as Oracle, PeopleSoft, and Lockheed Martin. Additionally, I led the Beacon Data Processing Systems application for NASA-CREST nanosatellites and modernized legacy application frameworks across various commercial sectors.
 
 ---
 
