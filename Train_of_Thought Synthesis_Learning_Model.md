@@ -1,6 +1,6 @@
 # 🧠 Train of Thought Synthesis (TOTS) Learning Model
 
-Building on Educational Technology and *MindTools* from **[Jim D. Pham's](https://github.com/devservice-ora/articles/blob/main/README.md#2-educational-technology--mindtools)** research, with the aim of improving students' problem-solving abilities in the age of artificial intelligence (AI).
+Building on Educational Technology and *MindTools* from **[Jim D. Pham's](https://github.com/devservice-ora/articles/blob/main/README.md#2-educational-technology--mindtools)** research, with the aim of enhancing students' problem-solving abilities by integrating artificial intelligence (AI) as a collaborative partner. 
 
 🔗 [MindTools Foundation for TOTS: Comprehensive Overview](https://github.com/devservice-ora/AI/blob/main/MindTools_Foundation_For_TOTS.md)
 
