@@ -68,7 +68,7 @@ This curriculum is structured as a developmental pathway, systematically advanci
 
 ---
 
-**ℹ️ Note:** Beyond 'Record and Listen': Engineering the Train of Thought Synthesis (TOTS) Learning Model
+📚 **Beyond 'Record and Listen'**: Engineering the Train of Thought Synthesis (TOTS) Learning Model
    <footer>
         <p class="meta">
             <strong>Author:</strong> Jim D. Pham <br>
