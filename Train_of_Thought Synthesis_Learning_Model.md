@@ -8,6 +8,12 @@ Building on Educational Technology and *MindTools* from **[Jim D. Pham's](https:
 
 ---
 
+## Case Study: Train of Thought Synthesis (TOTS)
+
+This case study focuses on the Train of Thought Synthesis (TOTS) method. As a practical demonstration of the **TOTS** learning model, I developed a [*GitHub*](https://github.com/devservice-ora) project and built the platform [*totsllc.com*](http://www.totsllc.com/) from the ground up. This involved web application development and configuring domain hosting in direct collaboration with AI agents.  I successfully deployed the platform to the **cloud** in less than a day. This experience showcases the potential of AI as a collaborative partner in the development of educational technology.
+
+---
+
 ## Background
 
 During my early college years, I often felt overwhelmed by the sheer volume of course material. Retaining difficult subject matter proved challenging, particularly when first tackling new programming languages and complex engineering concepts. To manage this, I developed a habit of keeping my textbooks close as a visual reference for key terminology. Over time, this constant reinforcement allowed me to internalize the material completely. While gradual, this process taught me the value of persistence and paved the way for the **Train of Thought Synthesis (TOTS) Learning Model**—a methodology I still rely on today.
