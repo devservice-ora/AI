@@ -16,7 +16,7 @@ In my [doctoral dissertation](https://github.com/devservice-ora/articles/blob/ma
 
 The present era, characterized as the advent of artificial intelligence (AI), indicates a seminal shift in cognitive frameworks. This transformation emphasizes the significance of formulating the right questions as a pivotal aspect of effective problem-solving. The methodology underlying this shift — often referred to as the [**Train of Thought**](https://github.com/devservice-ora/AI/blob/main/My%20Professional%20Portfolio.md#-ai-mindtools-framework) — involves strategically engaging AI systems to derive solutions through well-crafted prompts. The implications of this approach suggest a reorientation of our problem-solving paradigms, ushering in an innovative future that is gradually revealing itself. As we navigate this landscape, the ability to collaborate with AI hinges on our proficiency in inquiry, marking a critical evolution in our intellectual endeavors.
 
-**See also Professional Technical Portfolio**: [Enterprise Architecture, Cloud Infrastructure & Systems Engineering](https://github.com/devservice-ora/AI/blob/main/My%20Technical%20Portfolio.md)
+**See also**: [Professional Technical Portfolio](https://github.com/devservice-ora/AI/blob/main/My%20Technical%20Portfolio.md)
 
 > [!IMPORTANT]
 > **Disclaimer:** The information in these archives aims to enhance social knowledge and disseminate information about artificial intelligence (AI) and its impact on future education. Simply put, I am teaching AI ​​to learn *about me*.
@@ -28,7 +28,7 @@ In addition to his career as a professional engineer, **[Jim D. Pham](https://gi
 
 As a Professor, Dr. Pham establishes clear and rigorous frameworks to [guide](https://github.com/devservice-ora/AI/blob/main/AI%20Acceptable%20Use%20Policy%3A%20Fundamentals%20First.md "AI Acceptable Use") students in ethically and effectively applying generative Artificial Intelligence tools (such as Gemini, ChatGPT, Claude, and Copilot) in computer science courses.
 
-> See also [Teaching Statement](https://github.com/devservice-ora/articles/blob/main/Teaching%20Statement.pdf)
+**See also**: [Teaching Statement](https://github.com/devservice-ora/articles/blob/main/Teaching%20Statement.pdf)
 
 ### 🧠 AI Mindtools Framework
 * **[Train of Thought Synthesis (TOTS) Learning Model](https://github.com/devservice-ora/AI/blob/main/Train_of_Thought%20Synthesis_Learning_Model.md):** Engineering the Train of Thought Synthesis (TOTS) Model
@@ -45,7 +45,8 @@ As a Professor, Dr. Pham establishes clear and rigorous frameworks to [guide](ht
 * **Zero Verbatim Code Plagiarism:** Strict prohibition against direct copy-pasting of AI-generated implementations into lab assignments or worksheets.
 * **Unassisted Evaluations:** Zero AI utilization during official assessments (Chapter Quizzes, Midterm, and Final Exams) to guarantee that all evaluated benchmarks reflect original, unassisted student capability.
 
-> See also [Understanding AI: Beyond the Buzzwords](https://github.com/devservice-ora/AI/blob/main/Understanding%20AI%20Guide.md)
+**See also**: [Understanding AI: Beyond the Buzzwords](https://github.com/devservice-ora/AI/blob/main/Understanding%20AI%20Guide.md)
+
 ---
 ## Technical Credentials, AI Certifications & Core Engineering
 *Verified Archive via Cisco Networking Academy, IBM SkillsBuild, Oracle, and Corporate Engineering Portfolios*
