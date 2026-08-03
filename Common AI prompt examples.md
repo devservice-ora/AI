@@ -29,6 +29,7 @@ Structure: Format in a clear and organized structure.
 
 By utilizing the PARTS framework, users can optimize their AI interactions, leading to productive outcomes and a better grasp of AI technologies.
 
+> Google’s AI Principles require a **human-in-the-loop** approach: the AI provides the first draft, but you leverage your expertise to make the final decision. 
 ---
 
 ## Creative Prompt Ideas for Computer Science Students
