@@ -1,8 +1,12 @@
 # C++ Code Review Prompts Collection
 
-> **Overview:** This document contains a curated list of example prompts designed for CS102 students to effectively seek AI feedback on C++ assignments. The prompts focus on code readability, parallel array safety, output formatting, control flow logic, and rubric-aligned evaluations—guiding students to get constructive hints, logic explanations, and structural feedback without revealing completed code solutions.
-> 
+## Overview
+
+This document contains a curated list of example prompts designed for CS102 students to effectively seek AI feedback on C++ assignments. The prompts focus on code readability, parallel array safety, output formatting, control flow logic, and rubric-aligned evaluations—guiding students to get constructive hints, logic explanations, and structural feedback without revealing completed code solutions.
+ 
 > *Note: For prompts requiring code or rubric files, please attach your relevant file (`[attach file here]`) when submitting the prompt to the AI tutor.*
+
+**See also**: [Common AI Prompt Examples](https://github.com/devservice-ora/AI/blob/main/Common%20AI%20prompt%20examples.md)
 
 ---
 
