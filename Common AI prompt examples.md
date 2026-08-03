@@ -4,6 +4,8 @@
 
 To learn effectively, use AI to create **[concept maps](https://github.com/devservice-ora/AI/blob/main/AI_Mindtools_and_Mapping_Framework.md)** by asking a series of prompt questions about the topic in chronological order.
 
+## Prompt Guidelines
+
 In my Google AI Educator training, the PARTS framework is a structured, chronological order in which it comes to mind for enhancing interactions with Large Language Models (LLMs) and AI agents, especially beneficial for educators and learners. 
 
 Here’s a brief overview of each component:
@@ -29,10 +31,14 @@ Structure: Format in a clear and organized structure.
 
 By utilizing the PARTS framework, users can optimize their AI interactions, leading to productive outcomes and a better grasp of AI technologies.
 
-> Google’s AI Principles require a **human-in-the-loop** approach: the AI provides the first draft, but you leverage your expertise to make the final decision. 
+> Google’s AI Principles require a **human-in-the-loop** approach: the AI provides the first draft, but you leverage your expertise to make the final decision.
+
+
 ---
 
 ## Creative Prompt Ideas for Computer Science Students
+
+**See also**: [C++ Code Review Prompts Collection](https://github.com/devservice-ora/AI/blob/main/Sample-AI-Prompts-For-CS.md)
 
 ### 1. The Code Debugger & Explainer
 
