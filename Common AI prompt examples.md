@@ -23,8 +23,8 @@ Here’s a brief overview of each component:
 Persona: Identify who you are.
 Aim: State your objective clearly—what exactly do you want to achieve?
 Recipients: Specify your audience.
-Theme: Describe the desired style or tone"
-Structure: Note the format you expect.
+Theme: The tone should be conversational and engaging.
+Structure: Format in a clear and organized structure.
 ```
 
 By utilizing the PARTS framework, users can optimize their AI interactions, leading to productive outcomes and a better grasp of AI technologies.
