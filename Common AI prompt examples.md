@@ -18,6 +18,15 @@ Here’s a brief overview of each component:
 
 5. **S - Structure:** Organize your prompts logically for clearer and more digestible answers.
 
+**Related definition**:
+```
+Persona: Identify who you are.
+Aim: State your objective clearly—what exactly do you want to achieve?
+Recipients: Specify your audience.
+Theme: Describe the desired style or tone"
+Structure: Note the format you expect.
+```
+
 By utilizing the PARTS framework, users can optimize their AI interactions, leading to productive outcomes and a better grasp of AI technologies.
 
 ---
