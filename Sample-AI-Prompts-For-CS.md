@@ -12,6 +12,19 @@ This document contains a curated list of example prompts designed for CS102 stud
 
 ## 1. General Code & Structure Review
 
+**From My CS Student**:
+> Hi Professor, I read your article, and I think the point about understanding the fundamentals of AI was very interesting > because it connects to how we are learning to program. Just as someone cannot truly understand C++ by copying code
+> without understanding the concepts behind it, using AI effectively requires more than just asking it for answers. This
+> is especially important when using AI as a peer reviewer because the quality of the feedback depends on the questions we
+> ask and our ability to understand and evaluate the suggestions.
+>
+> When I used AI to review my lab assignment, I did not simply ask it to rewrite my code. Instead, I provided specific
+> steps on readability and efficiency, and explained the reasoning behind each change. The feedback helped me identify
+> improvements, but I still had to understand why those changes made the program better before I applied them. I think this
+> shows that AI is most useful when it supports our learning rather than replacing the process of understanding programming
+> concepts.
+
+
 > This is my final working code to address these project parameters. How can I improve my code? Improvements in either readability or to more closely mirror a real banking statement regarding the instructions. Please address any logical and all other flaws.
 
 > How can I pass variables by reference in this function?
@@ -27,6 +40,30 @@ This document contains a curated list of example prompts designed for CS102 stud
 > How to indent the `cout` to the left using `setw`?
 
 > How can I make my conditional statements more efficient? Can you suggest ways to improve the organization of my source code?
+
+> Give me a few branching examples and explain why each condition is true or false.”
+
+> Act as a peer reviewer for my C++ code. Trace my decision tree with the following test inputs: negative numbers, zero, and upper-boundary numbers. Point out any logical gaps or overlapping conditions where a value might trigger the wrong branch, but do not rewrite the code
+
+> Review my C++ code for syntax errors and readability, but strictly constrain your suggestions to basic control structures (if/else, loops) and standard raw arrays. Do not suggest advanced C++ features or library functions outside of <iostream> and <iomanip>.
+
+> Check my loop logic for accessing parallel arrays and confirm every array uses the same index consistently, and flag any risk of writing past the array bounds when I append an extra record.
+
+> How should I pass variables by reference in this function?", "How can I validate user input using a while loop?", or "How can I format my output using setw() and setprecision()?
+
+> Review my parallel array code for safety against out-of-bounds indexing and check if my <iomanip> formatting aligns the columns cleanly.
+
+> Review my C++ branching program and improve its variable names, constants, readability, and output formatting without changing the original logic
+
+> Review my C++ savings-account loop program for input validation, variable scope, repeated calculations, and readability while keeping the required calculations unchanged.
+
+> Examine my function parameter passing, verify that reference variables are used correctly to update state, and suggest stream validation improvements.
+
+> Check my variable types and arithmetic logic to ensure I am avoiding integer division traps and using appropriate floating-point variables.
+
+> Review my code without changing its functionality. First, suggest improvements for organization and readability. Then, identify any unnecessary or repetitive code that could be condensed into a single function. Finally, explain the reasoning behind your suggestions and how they would enhance my code.
+
+> Suggestions for making my code easier to follow include avoiding vague variable names and considering the use of ternary operators to simplify if-else statements.
 
 ---
 
