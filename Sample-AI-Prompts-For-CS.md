@@ -43,6 +43,7 @@ This document contains a curated list of example prompts designed for CS102 stud
 > 2. Check for any off-by-one errors.
 > 3. Check for any incorrect `total_records` updates.
 > 4. Check for any places where an array could be accessed out of bounds.
+> 5. How can I use functions to make my code shorter and more efficient?
 
 ---
 
