@@ -1,4 +1,4 @@
-# Examples of practical prompts for **Computer Science (CS) students**
+# Examples of practical prompts for Chatbot
 
 **[Jim D. Pham](https://github.com/devservice-ora/articles/blob/main/README.md)**
 
