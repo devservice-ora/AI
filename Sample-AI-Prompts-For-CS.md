@@ -26,6 +26,8 @@ This document contains a curated list of example prompts designed for CS102 stud
 
 > How to indent the `cout` to the left using `setw`?
 
+> How can I make my conditional statements more efficient? Can you suggest ways to improve the organization of my source code?
+
 ---
 
 ## 2. Parallel Arrays & Bounds Checking
@@ -35,6 +37,8 @@ This document contains a curated list of example prompts designed for CS102 stud
 > Review my loop logic for accessing parallel arrays and ensure that all arrays use the same index consistently. Also, identify any risks of writing beyond the array bounds when I add an extra record.
 
 > Review my loop logic accessing parallel arrays. Verify that every array uses the same variable index consistently across all operations. Highlight any risk of accessing an array out of bounds or using an array size variable incorrectly.
+
+> Review my loop and suggest ways to optimize performance and reduce unnecessary calculations.
 
 > Check my parallel array code for safety against out-of-bounds indexing and ensure my `<iomanip>` formatting aligns the columns neatly.
 
@@ -55,7 +59,9 @@ This document contains a curated list of example prompts designed for CS102 stud
 
 > This is a C++ program. Review my ledger output and suggest improvements to enhance the table's readability while maintaining all necessary information and calculations.
 
-> Please review my C++ savings account simulation. Suggest improvements for repetitive output formatting using helper functions and ways to prevent invalid inputs, like negative numbers or letters, from causing crashes.
+> Review my C++ savings account simulation. Suggest improvements for repetitive output formatting using helper functions and ways to prevent invalid inputs, like negative numbers or letters, from causing crashes.
+
+> How can I format the output more neatly and minimize repetitive code?
 
 ---
 
@@ -72,6 +78,8 @@ This document contains a curated list of example prompts designed for CS102 stud
 > Review my C++ code and analyze the decision tree using these test inputs: negative numbers, zero, and upper-boundary numbers. Identify any logical gaps or overlapping conditions that could lead to incorrect branches, but do not rewrite the code.
 
 > Review my C++ code for syntax errors and readability. Focus only on basic control structures (if/else, loops) and standard raw arrays. Do not suggest advanced features or external library functions.
+
+> Review my classes and suggest ways to make them better comply with C++ best practices.
 
 ---
 
