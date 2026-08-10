@@ -11,7 +11,7 @@ Please read and follow the step-by-step instructions below carefully before uplo
 
 #### ℹ️ Check out the links below for additional information
 
-* **[Program Logic Grading Rubric](https://github.com/devservice-ora/AI/edit/main/Program%20Logic%20Grading%20Rubric.md)**
+* **[Program Logic Grading Rubric](https://github.com/devservice-ora/AI/blob/main/Program%20Logic%20Grading%20Rubric.md)**
 * **[AI Acceptable Use Policy Fundamentals First](https://github.com/devservice-ora/AI/blob/main/AI%20Acceptable%20Use%20Policy%3A%20Fundamentals%20First.md)**
 
 ## 📋 Step-by-Step Instructions
