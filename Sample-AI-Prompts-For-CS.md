@@ -1,4 +1,4 @@
-# C++ Code Review Prompts Collection
+# A collection of examples of C++ code review
 
 ## Overview
 
