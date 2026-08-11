@@ -13,7 +13,9 @@ This document contains a curated list of example prompts designed for CS102 stud
 ## 1. General Code & Structure Review
 
 **From My CS Student**:
-> Hi Professor, I read your article, and I think the point about understanding the fundamentals of AI was very interesting > because it connects to how we are learning to program. Just as someone cannot truly understand C++ by copying code
+> Hi Professor,
+> 
+> I read your article, and I think the point about understanding the fundamentals of AI was very interesting > because it connects to how we are learning to program. Just as someone cannot truly understand C++ by copying code
 > without understanding the concepts behind it, using AI effectively requires more than just asking it for answers. This
 > is especially important when using AI as a peer reviewer because the quality of the feedback depends on the questions we
 > ask and our ability to understand and evaluate the suggestions.
@@ -23,6 +25,8 @@ This document contains a curated list of example prompts designed for CS102 stud
 > improvements, but I still had to understand why those changes made the program better before I applied them. I think this
 > shows that AI is most useful when it supports our learning rather than replacing the process of understanding programming
 > concepts.
+>
+> — S.T.
 
 
 > This is my final working code to address these project parameters. How can I improve my code? Improvements in either readability or to more closely mirror a real banking statement regarding the instructions. Please address any logical and all other flaws.
