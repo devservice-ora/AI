@@ -38,7 +38,7 @@ By utilizing the PARTS framework, users can optimize their AI interactions, lead
 
 ## Creative Prompt Ideas for Computer Science Students
 
-**See also**: [C++ Code Review Prompts Collection](https://github.com/devservice-ora/AI/blob/main/Sample-AI-Prompts-For-CS.md)
+**See also**: [A collection of examples of C++ code review](https://github.com/devservice-ora/AI/blob/main/Sample-AI-Prompts-For-CS.md)
 
 ### 1. The Code Debugger & Explainer
 
