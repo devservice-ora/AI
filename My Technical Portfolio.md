@@ -43,7 +43,7 @@ This portfolio highlights over 25 years of extensive professional experience in 
 ## 🚀 II. Distinguished Projects & Research
 
 * **🌌 Aerospace & Nanosatellites ([NASA / CREST](https://github.com/devservice-ora/projects/blob/main/NASA%20CREST%20Beacon%20Data%20Processing%20System%20Award.md)):** Directed specialized engineering efforts for the PharmaSat satellite project, bridging complex software controls with space-bound telemetry.
-* **🚍Lockheed Martin IS&T ([Wingspread Award](https://github.com/devservice-ora/projects/blob/main/Award-Lockheed-Wingspread-1996.jpg)):** Honored with the award for technical excellence.
+* **🚍Lockheed Martin IS&T ([Wingspread Award](https://github.com/devservice-ora/projects/blob/main/Award-Lockheed-Martin-Wingspread-1996.md)):** Honored with the award for technical excellence.
 * **📱 Mobile & Ubiquitous Computing (Early Innovation):** Pioneered early-stage prototypes including a Bluetooth-enabled mobile shopping cart framework, clinical data gathering applications, and early Java Web Server Engines.
 
 ---
