@@ -1,4 +1,4 @@
-# 💬 Prompt Guidelines
+# 💬 Interactive Prompt Guides
 
 In my Google AI Educator training, the **PARTS** framework is a structured, chronological order in which it comes to mind for enhancing interactions with Large Language Models (LLMs) and AI agents, especially beneficial for educators and learners. 
 
