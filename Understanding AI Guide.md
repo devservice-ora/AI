@@ -10,7 +10,7 @@ A new paradigm shift in thinking involves asking the right questions. A new appr
 
 It is incredibly easy to feel like you are the only one trying to cut through the noise when LinkedIn, tech blogs, and corporate presentations are flooded with jargon like **RAG (Retrieval-Augmented Generation)** and **AI Agents**.
 
-If it feels like "everyone" is just talking about it, but only a fraction actually understands it, your intuition is completely spot on. AI has largely become a buzzword, and the number of people who truly understand it is a small fraction of those who claim to.
+While it may appear that "everyone" is talking about AI, only a *small* percentage of people actually  understand it. **You're right**—AI has become a **buzzword**, and only a *small* fraction of those who claim to comprehend its concepts truly do.
 
 ℹ️ For additional information, visit also **[AI Acceptable Use Policy Fundamentals First](https://github.com/devservice-ora/AI/blob/main/AI%20Acceptable%20Use%20Policy%3A%20Fundamentals%20First.md).**
 
@@ -20,7 +20,7 @@ If it feels like "everyone" is just talking about it, but only a fraction actual
 
 To truly understand any technology, you have to look past the hype and master its core concepts. 
 
-Think of it like learning programming (such as C++): you cannot just talk about writing programs. You must understand the fundamental concepts.
+Think of it like learning programming (such as C++): you cannot just talk about writing programs. *You must understand the fundamental concepts*.
 * **The Fundamentals:** Syntax and core concepts of the language.
 * **Advanced Concepts:** [Object-Oriented Programming (OOP)](https://github.com/devservice-ora/taught-courses/blob/main/README.md#-core-programming--data-structures) and [Data Structures](https://github.com/devservice-ora/taught-courses/blob/main/SP-2025-Syllabus-CS124-Data%20Structures.pdf).
 
@@ -50,4 +50,7 @@ The same rule applies to artificial intelligence. True mastery requires understa
 
 * **AI Agent:** A proactive assistant given a high-level goal. It has memory, a control loop, and a set of tools. It breaks down tasks, calls external services/APIs, reviews results, and changes its approach until the goal is achieved.
 
-**Summary:** Building a quick demo is easy, but engineering a production-ready AI system takes months of optimization and solid technical fundamentals. Focus on the core mechanics, not the hype.
+---
+⚠️ **Summary**
+
+Building a quick demo is easy, but engineering a production-ready AI system takes months of optimization and solid technical fundamentals. Focus on the core mechanics, not the hype.
