@@ -1,10 +1,16 @@
-# Engaging in Role-Play with AI
+# 👥 Engaging in Role-Play with AI
 
 Role-playing is an essential aspect of interacting with AI, and I agree with that.
 
 ---
 
-## 6 core roles of Students when interacting with AI Chatbot, according to ascd.org
+## 🤖 AI Co-Partner in Learning
+
+  1. **Creativity:** *Generate detailed project parameters to inspire a creative response.*
+  2. **Rubric:** *Develop a clear rubric for evaluation.*
+  3. **Feedback Loop:** *Provide explicit and comprehensive instructions.*
+
+## 📝 6 Core Roles of Students When Interacting with AI Chatbot, according to ascd.org
 
   1. **Learner:** *Students know how to use AI to set learning goals, create plans for learning new skills, identify strategies to get unstuck, and seek targeted feedback to improve performance and understanding.*
   2. **Researcher:** *Students know how to use AI to investigate and analyze topics, evaluate claims, and compare sources of information.*
