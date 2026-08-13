@@ -1,4 +1,4 @@
-# Interactive Prompt Guides
+# Interactive Prompt Examples
 
 **[Jim D. Pham](https://github.com/devservice-ora/articles/blob/main/README.md)**
 
