@@ -20,8 +20,10 @@ The text highlights the importance of mastering fundamental concepts in Computer
 **A good research question to consider is** *whether AI truly benefits student development or simply promotes dependency on automated code generation.*
 
 * **[Train of Thought Learning Learning Model](https://github.com/devservice-ora/AI/blob/main/Train_of_Thought%20Synthesis_Learning_Model.md)**: Train of Thought Synthesis (TOTS) is a proprietary pedagogical framework designed to make complex computational thinking accessible and systematic. The model guides learners to trace, visualize, and synthesize their cognitive problem-solving process—turning abstract object-oriented principles into practical, repeatable engineering skills.
+* **[AI Fundamentals First](https://github.com/devservice-ora/AI/blob/main/AI%20Acceptable%20Use%20Policy%3A%20Fundamentals%20First.md)**: It's essential to understand the fundamentals before utilizing AI tools for assistance.
+* **[AI Acceptable Use Guidelines](https://github.com/devservice-ora/AI/blob/main/AI%20Acceptable%20Use%20Guidelines%20for%20CS%20Students.md)**: Official academic syllabus guidelines outlining boundaries for generative.
 * **[AI Tool Evaluation Framework](https://github.com/devservice-ora/AI/blob/main/AI%20Tool%20Evaluation%20Framework.md)**: AI Tool Evaluation Framework & Comparative Methodology.
-* **[AI Acceptable Use Guidelines](https://github.com/devservice-ora/AI/blob/main/AI%20Acceptable%20Use%20Guidelines%20for%20CS%20Students.md)**: Official academic syllabus guidelines outlining boundaries for generative AI tool deployment in computer science and programming courses.
+AI tool deployment in computer science and programming courses.
 * **[Interactive prompt Guides](https://github.com/devservice-ora/AI/blob/main/Interactive%20Prompt%20Guides.md)**: Introducing Interactive Prompt Guides that provide frameworks for structuring effective AI prompts, enhancing your ability to create impactful interactions for a more productive experience.
 * **[The Ultimate Free AI Tools Directory](https://github.com/devservice-ora/AI/blob/main/The%20Ultimate%20Free%20AI%20Tools%20Directory.md)**: List of free AI tools.
 * **[Top 10 AI Applications in Education](https://github.com/devservice-ora/AI/blob/main/Top%2010%20AI%20Applications%20in%20Education.md)**: Comprehensive Guide: Top 10 AI Applications in Education.
