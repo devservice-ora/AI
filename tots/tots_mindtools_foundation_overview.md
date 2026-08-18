@@ -10,10 +10,10 @@ This model is building upon the technology-based *MindTools* modeling frameworks
 * [1. Introduction](#1-introduction)
 * [2. The Four Series Matrix](#2-the-four-series-matrix)
 * [3. Module Deep-Dives](#3-module-deep-dives)
-  * [Module 1: Train of Thought Synthesis (TOTS) Learning Model](https://github.com/devservice-ora/AI/blob/main/Train_of_Thought%20Synthesis_Learning_Model.md)
-  * [Module 2: Mindtools Framework](https://github.com/devservice-ora/AI/blob/main/AI_Mindtools_Framework.md)
-  * [Module 3: Mindtools & Mapping Framework](https://github.com/devservice-ora/AI/blob/main/AI_Mindtools_and_Mapping_Framework.md)
-  * [Module 4: Mindtools Adaptive Model Problem Solving](https://github.com/devservice-ora/AI/blob/main/AI_Mindtools_Adaptive_Model_Problem_Solving.md)
+  * [Module 1: Train of Thought Synthesis (TOTS) Learning Model](https://github.com/devservice-ora/AI/blob/main/tots/tots_learning_model_framework.md)
+  * [Module 2: Mindtools Framework](https://github.com/devservice-ora/AI/blob/main/tots/tots_mindtools_framework.md)
+  * [Module 3: Mindtools & Mapping Framework](https://github.com/devservice-ora/AI/blob/main/tots/tots_mindtools_mapping_framework.md)
+  * [Module 4: Mindtools Adaptive Model Problem Solving](https://github.com/devservice-ora/AI/blob/main/tots/tots_mindtools_adaptive_model_framework.md)
 
 ---
 
