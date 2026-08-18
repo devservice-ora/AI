@@ -4,7 +4,7 @@ Building on Educational Technology and *MindTools* from **[Jim D. Pham's](https:
 
 Inspired by the vision of shaping the *thinkers of tomorrow*, this project, **TOTS**, emphasizes the need for learners to master the art of creating cognitive prompts while also understanding the science behind them. Engaging with AI requires the use of logic and reasoning along multiple pathways to solve problems.
 
-🔗 [MindTools Foundation for TOTS: Comprehensive Overview](https://github.com/devservice-ora/AI/blob/main/MindTools_Foundation_For_TOTS.md)
+🔗 [MindTools Foundation for TOTS: Comprehensive Overview](https://github.com/devservice-ora/AI/blob/main/tots/tots_mindtools_foundation_overview.md)
 
 > **Disclaimer:** This framework is built upon and extends the findings of the empirical study, *Effect of Educational Podcasts on Student Performance*, which demonstrates how repeated audio engagement outside the classroom transforms content into an invaluable study aid and drives conceptual crystallization. You can view the full foundational research paper [here](https://github.com/devservice-ora/articles/blob/main/Dissertation%20-%20A%20Case%20Study%20of%20the%20Classroom%20Podcast.pdf).
 
