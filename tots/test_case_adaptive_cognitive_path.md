@@ -1,17 +1,15 @@
-# Test Case: Adaptive Cognitive Pathway Simulation
+# 🧪 Test Case: Adaptive Cognitive Pathway Simulation
 
-## 🧪 Scenario Overview
+## 📌 1. Scenario Overview
 This test case documents an adaptive runtime session using the CognitivePathwayModelSchema. It validates how an AI agent or learning management system handles live state tracking, detects user stalls, and dynamically navigates learners across tool interconnections toward the final destination.
 
-Start Point: San Jose (Initial Idea / Question)
+- **Start Point:** San Jose (Initial Idea / Question)
+- **Destination Point:** New York City (Unified Answer / Universal Truth)
+- **Initial Active Path:** `path_analytics_01` (Logical / Deterministic Route)
 
-Destination Point: New York City (Unified Answer / Universal Truth)
+## 📋 2. Runtime Simulation Execution Log
 
-Initial Active Path: path_analytics_01 (Logical / Deterministic Route)
-
-## 📋 Runtime Simulation Execution Log
-
-```
+```text
 --- Evaluating Active Path: path_analytics_01 (Attempt 1) ---
 Status: Validation criteria unmet. User is working through logical constraints.
 
@@ -29,8 +27,7 @@ Success! Reached destination: New York City (Unified Answer / Universal Truth)
 
 ```
 
-## 🛠️ Python Implementation Blueprint
-
+## 💻 3. Python Implementation Blueprint
 Below is the implementation logic used to execute the test scenario above:
 
 ```
