@@ -39,3 +39,4 @@ To maintain academic rigor and ensure personal growth, the following practices a
 
 * **Verbatim Submissions:** Copying and pasting AI-generated code directly into your lab assignments or worksheets is strictly prohibited.
 * **Assessment Support:** Using AI tools during Chapter Quizzes, the Midterm Exam, or the Final Exam is a violation of academic integrity. All exams must reflect your own individual work.
+* **Undisclosed AI Use:** Submitting unacknowledged AI work affects grading accuracy.
