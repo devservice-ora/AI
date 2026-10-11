@@ -28,6 +28,20 @@ Following PARTS in sequence tends to produce outputs that need less repair.
 
 ---
 
+## SCAMPER
+
+Use the SCAMPER framework when iterating on AI outputs to brainstorm, refine, or take ideas in new directions. 
+
+1. **Substitute** — Ask the model to swap out an element (e.g., change the persona, tone, or format).
+2. **Combine** — Have the model merge multiple concepts, documents, or styles together.
+3. **Adapt** — Prompt the model to adjust the output for a different context, constraint, or audience.
+4. **Modify** (or Magnify/Minify) — Tell the model to emphasize a specific point, expand a section, or condense the text.
+5. **Put to another use** — Ask the model to repurpose the content (e.g., turn an essay into a lesson plan or a script).
+6. **Eliminate** — Instruct the model to remove jargon, cut specific sections, or simplify the language.
+7. **Reverse** (or Rearrange) — Prompt the model to change the order, argue the opposite perspective, or restructure the flow.
+
+---
+
 ## Suggested rules
 
 Use these whenever you write or revise a prompt. They sit underneath PARTS.
