@@ -33,6 +33,8 @@ The following formal certificates, credentials, and structural archive items are
 
 ### 🤖 Artificial Intelligence & Data Science Credentials
 * **Northstar - Agentic AI Certificate** – Snowflake Developer Badge for autonomous prompt orchestration and Cortex Agents.
+* **Optimizing Generative AI** – Cisco Networking Academy (October 2026).
+* **AI Fundamentals: Language and Vision in AI** – Issued by Cisco in collaboration with IBM SkillsBuild (October 2026).
 * **AI Fundamentals Certificate** – Issued by Cisco in collaboration with IBM SkillsBuild (June 2026).
 * **Apply AI: Update Your Resume Certificate** – Cisco Networking Academy (April 2026).
 * **AI for Educators** - AI workshop at SJSU, sponsored by NCyTE (December 2025).
