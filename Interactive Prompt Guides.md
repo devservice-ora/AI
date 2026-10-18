@@ -1,6 +1,6 @@
 # 💬 Interactive Prompt Guides
 
-The **PARTS** framework (from Google AI Educator training) is a chronological way to shape interactions with large language models and AI agents. It is useful for educators and learners who want more reliable, reusable prompts.
+The **PARTS** framework for AI prompts helps users engage with large language models and AI agents effectively. It is particularly beneficial for educators and learners aiming for more dependable and reusable prompts.
 
 **See also:** [Interactive Prompt Examples](https://github.com/devservice-ora/AI/blob/main/Common%20AI%20prompt%20examples.md)
 
